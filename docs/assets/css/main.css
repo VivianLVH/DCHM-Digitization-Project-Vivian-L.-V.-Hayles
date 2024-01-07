@@ -11,6 +11,15 @@ body {
 h1, h2, h3, nav, footer {
     text-align: center;
 }
+h1 {
+  font-size: 30px;
+}
+h2 {
+  font-size: 15px;
+}
+h3 {
+  font-size: 10px;
+}
 
 nav {
     margin-bottom: 1vw;
@@ -24,9 +33,8 @@ h2 {
 }
 
 h3 {
-    font-weight: bold;
-    padding: 1vw;
     
+    border-style: none;
 }
 
 #details {
@@ -75,3 +83,242 @@ footer {
     border: 1px solid black;
     width: 500px;
 }
+.img3 {display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.img4 {display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.img5 {float: left;
+}
+.img6 {float: right;
+shape-outside:circle(50%);
+margin-right: 60px;
+}
+.img7 {display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.img8 {float: left;
+}
+.img9 {float: left;
+}
+.img10 {float: right;
+}
+.img11 {display: block;
+  margin-left: auto;
+  margin-right: auto;
+shape-outside: url(assets/img/documents/Images_alone/Image_11c.png);
+}
+.img12 {float: left;
+margin-left: 60px;
+}
+.img13 {display: block;
+  margin-left: auto;
+  margin-right: auto;
+margin-left:40px;
+}
+.img15 {display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.img16 {float: left;
+margin-left:60px;
+}
+.img17 {display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.img18 {display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.img19 {display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.img20 {display: block;
+  margin-left: auto;
+  margin-right: auto;
+shape-outside: url(assets/img/documents/Images_alone/Image_20e.png);
+}
+.img21 {display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.img23 {float: left;
+margin-left:60px;
+}
+.img24 {display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.img25 {float:left;
+shape-outside:circle(50%);
+margin-left: 60px;
+}
+.img26 {float:left;
+shape-outside:circle(40%);
+margin-left: 60px;
+}
+.img27 {display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.img28 {display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.img29 {float:left;
+margin-left:60px;
+}
+.img30 {display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.img31 {display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.img32 {display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.img33 {float:left;
+margin-left:60px;
+}
+.img34 {float:right;
+shape-outside:circle(40%);
+margin-right: 60px;
+}
+.img35 {float:left;
+}
+.img36 {float:left;
+margin-left: 60px;
+}
+.img37 {float:left;
+margin-left: 60px;
+}
+.img38 {float:left;
+margin-left:60px;
+}
+.img39 {float:left;
+margin-left: 60px;
+}
+.img40 {display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.img41 {display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.img42 {float:left;
+shape-outside:circle(50%);
+margin-right:2rem;
+margin-left:60px;
+}
+.img43 {display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.img44 {display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.img45 {display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.img46 {float: left;
+margin-left: 60px;
+}
+.img47 {float: right;
+}
+.img48 {display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.img49 {float: right;
+shape-outside:circle(60%);
+}
+.img50 {float: left;
+margin-left: 60px;
+}
+.img51 {float:left;
+}
+.img52 {display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.img53 {float: left;
+margin-left: 60px;
+}
+.img54 {display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.img55 {float:right;
+}
+#myDIV {
+   text-indent: 20px;
+}
+
+p {
+margin-left: 60px;
+line-height:20px;
+word-spacing: 6px;
+}
+
+.headerLeft{
+position: running(headerLeft);
+font-size:10pt;
+float:left;
+margin-left:60px;
+            }
+.headerCenter{
+position: running(headerCenter);
+font-size:10pt;
+text-align:center;
+font-style: italic;
+}
+
+.headerRight{
+position: running(headerRight);
+font-size:10pt;
+float:right;
+margin-right:60px;
+}
+
+.center {
+  padding: 300px 0;
+  text-align: center;
+}
+th { text-align: center;
+margin-left:100px;
+}
+
+.footerRight{
+position: absolute;
+    bottom: 15px;
+    right: 50px;
+    height: 35px;
+   font-size:18pt;
+    
+    text-align: right;
+    padding: 10px 30px;
+}
+.footerRight2{
+position: absolute;
+    bottom: 15px;
+    right: 50px;
+    height: 35px;
+   font-size:7pt;
+    
+    text-align: right;
+    padding: 10px 30px;
+}
+
