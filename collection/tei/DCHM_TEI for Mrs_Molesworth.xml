@@ -1,0 +1,2326 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>TEI transcription of A House to Let </title>
+            <author>Mrs. Molesworth</author>
+            <respStmt>
+               <resp>transcribed by</resp>
+               <name>Vivian Lopes Valerio Hayles</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Society for Promoting Christian Knowledge</publisher>
+            <pubPlace>London</pubPlace>
+            <address>
+               <addrLine>Northumberland Avenue, W. C.; 43 Queen Victoria Street</addrLine>
+            </address>
+            <address>
+               <addrLine>Brighton: 135 North Street</addrLine>
+            </address>
+            <availability>
+               <licence>Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND
+                  4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title level="m">A House to Let</title>
+               <author>Mrs. Molesworth</author>
+               <publisher>Society for Promoting Christian Konwledge</publisher>
+               <pubPlace>London</pubPlace>
+               <address>
+                  <addrLine>Northumberland Avenue, W. C. ; 43 Queen Victoria Street</addrLine>
+               </address>
+               <name type="printingCompany">Richard Clay and Sons, Limited</name>
+               <name type="printerPlace">London and Bungay</name>
+               <date period="1839-1921">1839-1921</date>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <div type="dedication">
+            <p>Dora N Collins 1900-1941<lb/> 6 North Street<lb/> Gosport<lb/> Hants </p>
+         </div>
+         <pb/>
+
+         <titlePage>
+            <docTitle>
+               <titlePart type="main">A House to Let</titlePart>
+            </docTitle>
+            <byline>BY<lb/>
+               <docAuthor> Mrs. Molesworth.<lb/>
+               </docAuthor><hi rend="italic">Author of "Carrots," "Two Little Wolfs," "Little Miss
+                  Peggy," etc.</hi></byline>
+            <figure>
+               <figDesc>An illustration of a family of mice. One of them tells the others:
+                     <q>"We will not desert number nine"<lb/></q>. <persName type="illustrator"
+                        ><abbr>W. J. M.</abbr></persName></figDesc>
+            </figure>
+            <docImprint>
+               <pubPlace>London</pubPlace><lb/>
+               <publisher>Society for Promoting Christian Knowledge,</publisher>
+               <address>
+                  <addrLine>Northumberland Avenue, W. C.; 43 Queen Victoria Street.</addrLine>
+               </address>
+               <address>
+                  <addrLine>Brighton: 135 North Street.</addrLine>
+               </address>
+            </docImprint>
+         </titlePage>
+         <pb/>
+
+         <div type="printingCompany">
+            <bibl>
+               <distributor>Richard Clay and Sons, Limited,<lb/> London and
+                  Bungay<lb/></distributor>
+            </bibl>
+         </div><pb/>
+
+        
+      </front>
+      <body>
+         <figure n="4">
+            <graphic url="assets/img/documents/Images_alone/Image_4.png"/>
+            <head>Chapter I page</head>
+            <figDesc>
+               The image of the page starting chapter I with an illustration of a horse carriage and a couple having their belongings placed in the carriage
+            </figDesc>
+         </figure>
+         <head>A HOUSE TO LET.</head>
+         <div type="chapter">
+            <head>CHAPTER I</head>
+            <head type="subheading">A FLITTING.......5</head><lb/> 
+            
+            <p>SOMETHING was going to happen at No. 9. That was clear.<lb/> The children behind the
+               bars of the high-up nursery windows<lb/> across the street could have told the most,
+               I dare say. For one<lb/> or two of them had had colds and had not been allowed to
+               go<lb/> out for a week or so, and their best amusement had been to<lb/> watch the
+               doings of their opposite neighbours. They could have<lb/> told you how the old lady
+               and gentleman had made two or three<lb/> short journeys this winter, in spite of the
+               cold, staying away a night<lb/>
+               <fw type="sig" place="bot-right">B</fw><lb/><pb/>
+               <fw type="header" place="top">6 A HOUSE TO LET.</fw><lb/>or so only, they who for more years than the children
+               certainly<lb/> could remember had made but one annual flitting to the seaside<lb/>
+               every autumn. And now when a couple of cabs, so loaded with<lb/> luggage inside and
+               out that the old gentleman’s valet and the old<lb/>
+               <figure n="5">
+                  <graphic url="assets/img/documents/Images_alone/Image_5.png"/>
+                  <figDesc>
+                     Page 6 containing an illustration of two kids looking through a window
+                  </figDesc>
+               </figure><lb></lb>
+               lady’s maid could scarcely<lb/> 
+               find room in either, had<lb/>
+               driven away from the door<lb/>
+               from which a moment be-<lb/>
+               fore the neat brougham<lb/>
+               had started with the old<lb/>
+               people themselves, the child-<lb/>
+               ren knew all about it.</p><lb/>
+               <p>"They’ve left for good<lb/> 
+               now," said Bessie, who being<lb/>
+               a girl, of course jumped to<lb/>
+               conclusions much quicker<lb/>
+               than Jack, who though he<lb/>
+               was older and bigger, la-<lb/> 
+               boured, poor fellow, under<lb/> 
+               the disadvantage of being only a boy. It wasn't exactly his<lb/>
+               fault, to be sure; still he was never allowed to forget it, for<lb/>
+               there were three sisters "on the top of him," as Bessie said, and the<lb/>
+               <pb/>
+               <fw type="header" place="top">A FLITTING. 7</fw><lb/>
+               two brothers who came "behind her" were too small to be<lb/> 
+               good for much in the way of backing him up. He was really<lb/>
+               "Jack in the middle;" but long ago it had been decided in this<lb/> 
+               family that there were to be <hi rend="italic">two</hi> "Jacks in the middle," even<lb/> 
+               though it put it all rather crooked. For Bessie and he were so<lb/> 
+               much nearer each other in age than they were near the big<lb/>
+               sisters on the one hand, or the little brothers on the other, that<lb/> 
+               it would have been absurd to "count ourselves any other way,"<lb/> 
+               said all of them. And the arrangement was very well carried<lb/> 
+               out. Jack and Bessie kept together faithfully. They did every-<lb/>
+               thing together, even to getting into long division and having the<lb/> 
+               measles. And this winter they had got bad colds together, which<lb/> 
+               was rather a good plan, as they could stay in the same room, and<lb/> 
+               have the same hot gruel at night and the same medicine marked<lb/> 
+               "three times a day." They were sensible children, you see. I<lb/> 
+               call it very sensible to have chosen the very time for their<lb/> 
+               bad colds when there was a removal going on at No. 9<lb/> 
+               opposite.</p> 
+               <p>For that was the meaning of the unusual journeys and general<lb/> 
+               excitement, as Bessie had guessed.</p>
+               <p>"They’ve left for good now," she said. "Poor old lady and<lb/> 
+               gentleman. It makes me rather sad—doesn’t it you, Jack?—to think<lb/><pb/>
+      
+                  <fw type="header" place="top">8 A House to Let.</fw><lb/>
+               we’ll never see them again? In a day or two, you’ll see, there'll<lb/>
+               come two or three great big vans and a lot of men, and all the<lb/> 
+               furniture’ll be carried out and packed into the vans and there’ll<lb/>
+               be 'A house to let' opposite, Jack.”<lb/></p>
+               <p>Jack listened admiringly. Bessie was only seven, and he was<lb/> 
+               eight and a half. He felt that she was far forwarder for her age<lb/> 
+               than he. But he was a nice boy—he didn’t feel jealous—it was<lb/> 
+               only fair for girls to have <hi rend="italic">something</hi> better than boys, for it must<lb/> 
+               be very sad never to be able to look forward to having Eton<lb/> 
+               jackets and trousers, or boots with nails in, or football flannels<lb/> 
+               like their big cousin D’Arcy. From which you will see that all<lb/> 
+               the wholesome snubbing of Flora and Pleasance and Agnes had<lb/>
+               fallen on rather stony ground. Jack wouldn’t have <hi rend="italic">not</hi> been a<lb/>
+               boy, not for—oh, I can’t find any strong enough words to<lb/> 
+               say for it!<lb/></p> 
+               <p>"I hope it won’t be 'A
+               house to let' for long," he replied.<lb/> 
+               "Can’t you guess about that too, Bessie? I should like new<lb/> 
+               people to come at once, while we’re not doing lessons. It would<lb/> 
+               be fun to see the furniture all going in, and to watch to see what<lb/> 
+               they were like."<lb/></p> 
+               <p>But Bessie wasn’t enough of a gipsy to predict any more. She<lb/>
+               was right enough so far—the big vans came and the furniture<lb/><pb/>
+                  <fw type="header" place="top">A Flitting. 9</fw><lb/> 
+               was all carried out and the street was left very messy-looking in<lb/> 
+               front of No. 9 for a day or two, with bits of straw and paper<lb/> 
+               and ends of string fluttering about. The last person to come out<lb/> 
+               was the old gentleman and lady’s old cook, who had stayed<lb/> 
+               behind to see that all was right. She wasn’t going to be their<lb/> 
+               cook any more, for she was getting too old. And she wiped her<lb/> 
+               eyes rather sadly as she shut-to the area gate for the last time,<lb/> 
+               and out of the covered basket which she carried on her arm<lb/> 
+               there came a plaintive mew of sympathy, for the old cook was<lb/> 
+               taking the old lady’s old cat away with her.<lb/></p>
+               <p>"She’ll be company for you," the old lady had said kindly,<lb/> 
+               "and she’d never take to country ways. You must bring her<lb/>
+               to see us when you come to spend a day though."</p> 
+               <p>For the old gentleman and lady had taken a house some way<lb/>
+               out of town. They were getting too stiff for London stairs,<lb/> 
+               they said, and they wanted a garden to stroll about in.</p>
+               <p>Jack and Bessie had not been the only—people I was going<lb/> 
+               to say, but that would not do—<hi rend="italic">ones</hi>, I’ll say for the present, to<lb/> 
+               watch with interest the signs of a removal from No. 9. There<lb/> 
+               was a whole family even more interested in it than the two<lb/> 
+               children opposite.</p>
+               <p>And on the evening of the day which saw the departure of the<lb/><pb/>
+                  <fw type="header" place="top">10 A House to Let.</fw><lb/>
+               old cook and the old cat, the excitement of this family reached<lb/> 
+               its height.</p>
+               <p>"It’s true, it’s all true—our best hopes are fulfilled. Ah my<lb/>
+               poor heart! It is palpitating with emotion. I shall never again be<lb/> 
+               the—the mouse I was, I fear, my beloved Mrs. Bright-eyes. What<lb/> 
+               I have gone through of late since our little ones have been old enough<lb/>
+               to run about alone, no one knows."</p><lb/> 
+               <p>And Mr. Bright-eyes smoothed his ruffled fur with his paws—<lb/>
+               for a mouse’s fur can be rubbed the wrong way, though you<lb/> 
+               mightn’t think it—and looked up to his plump little wife for<lb/> 
+               sympathy.</p><lb/>
+               <p>"My poor dear," she said feelingly, "I can’t bear to think of<lb/>
+               it. But you speak of good news—can it be—is it possible that<lb/>
+               the—the unmentionable one—is gone? Has she over-eaten herself<lb/>
+               —has her hideous voice at last worn out some neighbour's patience ?<lb/> 
+               Why if <hi rend="italic">I</hi> were a human being I would not have endured her a<lb/>
+               single night! But alas! <hi rend="italic">such</hi> good news is not to be hoped<lb/> 
+               for.”</p>
+               <p>"I beg your pardon, my love. Our fiendish enemy, the enemy<lb/> 
+               of our race, is, I may take upon myself to say, still in the land of<lb/> 
+               the living, but she will never trouble <hi rend="italic">us</hi> more. I have just from<lb/> 
+               a hole in the kitchen cupboard watched her departure—her final<lb/><pb/> 
+                  <fw type="header" place="top">A Flitting. 11</fw><lb/>
+               departure, Mrs. Bright-eyes, in a basket on the cook’s arm. And<lb/> 
+               as they left the kitchen, cook looked round and said, 'So it’s<lb/>
+               good-bye to the old place at last for you and me, pussy.' At<lb/>
+                  <figure n="5">
+                     <graphic url="assets/img/documents/Images_alone/Image_6.png"/>
+                     <figDesc>
+                        Image of page 11 containing text and an illustration of a lady standing outside a house as she leaves
+                     </figDesc>
+                  </figure><lb></lb>
+               which <hi rend="italic">she</hi>, the name-<lb/>
+               less one, mewed. 'And<lb/> 
+               even for your sake,<lb/> 
+               pussy,’ continued the<lb/>
+               deluded creature, 'I<lb/>
+               cannot hope for mice<lb/> 
+               in our new home. For<lb/>
+               they are the most de-<lb/> 
+               structivest and forage-<lb/> 
+               ousist pests as never<lb/> 
+               was. They may have<lb/> 
+               it all their own way<lb/> 
+               here now howsome-<lb/> 
+               never for all I cares.'<lb/> 
+               And with that she shut<lb/> 
+               the door, sending my<lb/>
+               poor heart pit-a-pat, and I darted home to tell you. But<lb/> 
+               the emotion is too much for me. Have you a morsel of some-<lb/> 
+               thing at hand? I could—I think I could swallow a crumb of<lb/><pb/>
+                  <fw type="header" place="top">12 A HOUSE TO LET.</fw><lb/>
+               sponge-cake—there was some at afternoon-tea as usual, I suppose?<lb/>
+               'Twas you who were in the drawing-room yesterday."</p><lb/> 
+               <p>"You forget, my love—there has been no sponge-cake since the<lb/> 
+               old lady left. That mean creature, the cook, had nothing but<lb/> 
+               toast for her tea. However there was some gingerbread left<lb/> 
+               in the sideboard. I brought some pieces home. You will find<lb/> 
+               it not so bad.”</p><lb/>
+            <figure n="5">
+               <graphic url="assets/img/documents/Images_alone/Image_7.png"/>
+               <figDesc>
+                  Image of page 12 containing text and an illustration of two mice by a wall hole.
+               </figDesc>
+            </figure><lb></lb>
+            
+            <pb/>
+         </div>
+         <div type="chapter" n="2">
+            <head>CHAPTER II</head>
+            <head type="subheading">POPPY......I3</head><lb/> 
+           <figure n="5">
+               <graphic url="assets/img/documents/Images_alone/Image_8.png"/>
+               <figDesc>
+                  Image of page 13 containing text and an illustration of two mice in front of half an apple.
+               </figDesc>
+            </figure><lb></lb>
+            
+            <p rend="right">
+               BRIGHT-<lb/> 
+               EYES handed<lb/>
+               the ginger-<lb/>
+               bread crumbs<lb/> 
+               to her husband.<lb/> 
+               He thanked her<lb/>
+               politely. "I am<lb/> 
+               not difficult to<lb/> 
+               please, my love,"<lb/> 
+               he remarked as<lb/>
+               
+               he munched it. "Better by far, I always say, the poorest fare<lb/> 
+               if in peace and security. I <hi rend="italic">could</hi> even eat bread and cheese if<lb/>
+               we were put to it."</p><lb/> 
+               <p>"And you think the coast is really clear?" said Mrs. Bright-eyes<lb/> 
+               anxiously.</p><lb/>
+            <fw type="sig" place="bot-right">C</fw><lb/><pb/> 
+            <fw type="header" place="top">14 A HOUSE TO LET.</fw><lb/>
+               <p>"I feel sure of it," he replied. "This afternoon I shall reconnoitre<lb/> 
+               again, and if all is right the children may accompany us on a stroll<lb/> 
+               round the kitchen, dear things. How often they have wished to<lb/> 
+                  <figure n="5">
+                     <graphic url="assets/img/documents/Images_alone/Image_9.png"/>
+                     <figDesc>
+                        Image of page 14 containing text and an illustration of mice eating from a can of dripping
+                     </figDesc>
+                  </figure><lb></lb>
+                  
+               visit it! We shall be<lb/> 
+               able to introduce them to<lb/> 
+               all our pet haunts, and<lb/>   
+               show them the spots where you and I wandered in our<lb/>
+               sentimental days. The pastry cupboard, the shelf where stand<lb/> 
+               the jars of dripping, the sugar canister! Ah, what sweet<lb/> 
+               memories are mingled with them all—and to think we can<lb/>
+               now visit them as often as we choose! This day is a reward<lb/> 
+               for all our sufferings."</p><lb/>
+               <p>But Mr. Bright-eyes' jubilation was rather damped, when,<lb/> 
+               accompanied by his promising family, he had made the proposed<lb/><pb/> 
+                  
+                  <fw type="header" place="top">POPPY. 15</fw><lb/>
+                  
+               tour. The pastry cupboard was empty; of the jars of dripping<lb/>
+               there remained but one, containing but a mere smearing; the sugar<lb/> 
+               canister had bodily disappeared! Papa and Mamma Bright-eyes<lb/>
+               looked rather blank.</p><lb/> 
+               <p>"What a mean revenge!" they said to each other.<lb/> 
+               The young Bright-eyes were not disconcerted. They found plenty<lb/> 
+               to amuse them—it was great fun to rush about the kitchen, and in<lb/>
+               their ignorance they did not perceive the bareness of the land.<lb/> 
+               There were still crumbs here and there and some small fragments<lb/> 
+               of cheese not to be despised, though their Papa looked down upon<lb/> 
+               it as most plebeian food for mice of quality. And he was too <lb/>
+               shocked and startled by the state of things to rebuke them for<lb/> 
+               eating anything they found.</p><lb/> 
+               <p>"Take comfort, my love," said his wife. "We are still a long<lb/> 
+               way from starvation. There is a good deal of sawdust and bran in<lb/> 
+               the wine-cellar, there are some remains of candle-ends in the kitchen<lb/>
+               dresser, and even the scraps of oilcloth about the passages are not to<lb/> 
+               be despised in case of necessity."</p><lb/> 
+               <p>But Papa Bright-eyes nearly fainted at her words. I am afraid<lb/> 
+               he was something of a gourmand.</p><lb/> 
+               <p>"Hush, hush, my love," he whispered, “ you mean well, but<lb/> 
+               your suggestions are terrible. Could one have believed that human<lb/><pb/> 
+                  <fw type="header" place="top">16 A HOUSE TO LET.</fw><lb/>
+               spite would have gone so far? Could one have believed in such<lb/> 
+               ingenuity of cruelty? The nameless one has left us, it is<lb/> 
+               true, but only to a fate almost as cruel as her claws—to slow<lb/> 
+               starvation. We must emigrate, my love, we must emigrate!"</p><lb/> 
+               <p>"To a country where no nameless ones are to be found, then, I<lb/> 
+               hope,” said Mrs. Bright-eyes. "For my part I’d rather make the<lb/>
+               best of sawdust and oilcloth, and even a nibble at wall-paper now<lb/> 
+               and then, than risk coming across any of that lot, I must say."</p><lb/> 
+               <p>But as a week or two passed, and the last scraps of cheese had<lb/> 
+               disappeared, and mouldy bran grew rather monotonous fare, even<lb/> 
+               Mamma Bright-eyes began to urge upon her husband the desirability<lb/> 
+               of a voyage of discovery into one of the neighbouring houses which<lb/>
+               were not to let. And there is no knowing what the unfortunate<lb/> 
+               family might not have been driven to, had not an unexpected<lb/> 
+               event happened.</p><lb/> 
+               <p>Till now the house had been left empty. The old gentleman<lb/> 
+               and lady were in some ways a little too economically inclined, and<lb/> 
+               they had felt so sure of finding tenants or purchasers at once that<lb/>
+               they had not thought it necessary to put in a caretaker. But it was a<lb/> 
+               bad season for letting or selling houses, and at last their agent persuaded<lb/> 
+               them to put some one in charge who could "keep the dust down" and<lb/> 
+               answer any inquiries that might be made at the door. So one morn-<lb/><pb/> 
+                  
+                  <fw type="header" place="top">POPPY. 17</fw><lb/>
+                  <figure n="5">
+                     <graphic url="assets/img/documents/Images_alone/Image_10.png"/>
+                     <figDesc>
+                        Image of page 17 containing text and an illustration of a little girl standing by a house gate and looking outside.
+                     </figDesc>
+                  </figure><lb></lb>
+                  
+               ing Jack and Bessie,<lb/> 
+               whose colds were<lb/> 
+               quite gone by this<lb/> 
+               time, on coming in<lb/> 
+               from their usual<lb/> 
+               walk, were very<lb/> 
+               much surprised as<lb/> 
+               they passed No. 9<lb/> 
+               to see a little girl<lb/> 
+               standing at the area<lb/> 
+               gate, looking up and<lb/> 
+               down the street with<lb/> 
+               eager eyes. She was<lb/> 
+               a pleasant-faced<lb/> 
+               child, with short<lb/> 
+               black hair, bright<lb/> 
+               dark eyes and rosy<lb/>
+               cheeks, and her pina-<lb/> 
+               fore, though thread-<lb/> 
+               bare in some places<lb/> 
+               and darned in others,<lb/> 
+               was clean.</p><pb/> 
+            <fw type="header" place="top">18 A HOUSE TO LET.</fw><lb/>
+            
+               <p>Bessie, who was of a sociable disposition and not troubled with<lb/> 
+               shyness, stopped short at sight of the little maiden and looked at her<lb/> 
+               inquiringly. The nurses and the two little brothers were some way<lb/> 
+               down the street, coming along more slowly. A smile came over<lb/> 
+               the rosy face, and to Bessie this smile was irresistible.</p><lb/> 
+               <p>"Are you—have you come to live here?" she added.</p><lb/> 
+               <p>"Please'm, yes'm," replied the child promptly. "Mother and<lb/> 
+               me's a-caretaking, but mother’s out charing. She said as how I <lb/>
+               might stand 'ere to take the air a bit—it's beautiful air it is, Miss,<lb/> 
+               in this 'ere street," she burst out enthusiastically, "but as how I<lb/> 
+               mustn't step outside the gate. It isn't every day as mother's<lb/> 
+               charing—just permiscous-like, you see."</p><lb/> 
+               <p>"Are you very dull alone ?" asked Bessie sympathizingly. She<lb/> 
+               could not by any means understand all that the child said, but this<lb/> 
+               question seemed safe ground.</p><lb/> 
+               <p>"Bless you, no, Miss. It's a lovely house—it is a pleasure to<lb/>
+               sweep the rooms. And there's mice, Miss, as'd make you die with<lb/>
+               laughing. They seem half starved, they're so uncommon hungry.<lb/>
+               They'll eat the crumbs and we as close as close. I never did see<lb/> 
+               such mice."</p><lb/> 
+               <p>"How <hi rend="italic">very</hi> nice," exclaimed Bessie feelingly. "Jack, do<lb/> 
+               you hear? I wish I could see them. We'll talk to you again<lb/><pb/> 
+                  <fw type="header" place="top">POPPY. 19</fw><lb/>
+               another day, little girl, but we must run in now. That's our house<lb/>
+               opposite."</p><lb/> 
+               <p>"That's our nursery window—the one with the bars, do you<lb/> 
+               see?" added Jack, eager to put in a word.</p><lb/> 
+               <p>"You may look up there and we'll nod to you," said<lb/>
+               Bessie condescendingly. "What's your name?"</p><lb/>
+            <figure n="5">
+               <graphic url="assets/img/documents/Images_alone/Image_11.png"/>
+               <figDesc>
+                  Image of page 19 containing text and an illustration of mice running around.
+               </figDesc>
+            </figure><lb></lb>
+               <p>"Please'm, Poppy'm. Leastways I'm called Poppy, but S'lina<lb/> 
+               Mary's my proper name.?"</p><lb/> 
+               <p>"Sleener-mary, what a queer name! I like Poppy better. We'll<lb/> 
+               call you Poppy," said Bessie, as she and Jack ran off.</p><pb/>
+         </div>
+         <div type="chapter" n="3">
+            <head>CHAPTER III</head> 
+            <head type="subheading">FLIP'S APPEAL......20</head><lb/> 
+            <figure n="5">
+               <graphic url="assets/img/documents/Images_alone/Image_12.png"/>
+               <figDesc>
+                  Image of page 20 containing text and an illustration of a mouse standing up with a scared face.
+               </figDesc>
+            </figure><lb></lb>
+            <p>HEN Poppy had had air enough<lb/> and staring up and down the street<lb/> 
+               enough, she retired into the kitchen.<lb/> 
+               It was dinner time by now. She<lb/>
+               got out a plate with a bit of<lb/> 
+               cold boiled bacon, and managed<lb/> 
+               cleverly enough, by the aid of<lb/>
+               a shovel, to warm up a roast<lb/> 
+               potato over from last night's<lb/> 
+               supper. And then she sat down to<lb/> 
+               enjoy this unusually good dinner, as<lb/> 
+               happy as a queen. Had she not<lb/> 
+               every reason to be happy? No<lb/> 
+               more question of rent—a nice bit of fire, a good dinner,mother's<lb/> 
+               face cheerier than it had been since the long ago golden days,<lb/><pb/> 
+               <fw type="header" place="top">FLIP'S APPEAL. 21</fw><lb/>
+               remembered by little Poppy but as in a dream, when "father"<lb/>
+               was alive and earning good wages.</p><lb/> 
+               <p>The smell of the bacon and hot potato skin reached other<lb/> 
+               nostrils besides Poppy's. Father Bright-eyes was on the watch.<lb/> 
+               Things had been coming to a very bad pass with him and his<lb/> 
+               family the last few days, and hunger makes brave. Besides,<lb/> 
+               Poppy was far less alarming than a certain not-to-be-named<lb/> 
+               personage. As she slowly finished the last scraps of her dinner,<lb/> 
+               a slight, very slight sound behind her made her look round,<lb/> 
+               and the long tail of Papa Bright-eyes caught her glance ere<lb/> 
+               he whisked it after him down the hole in the corner of the<lb/> 
+               cupboard.</p><lb/> 
+               <p>"Ah, there you are, mousey," said the little girl, "don’t be<lb/> 
+               afraid, poor dear. I'm not a-going to hurt you. And I've left<lb/> 
+               some nice crumbs of potato skin and a bit of bacon rind for you.<lb/> 
+               See there, I'll put it down in front of the 'earth, so as you can<lb/> 
+               be nice and warm while you eats it. And I'm just a-going to<lb/> 
+               take a nap, so I'll not even see as you're there. You've no call<lb/> 
+               to be afraid—go and fetch all the family if you please. We've<lb/> 
+               no cat—mother and me, we don't hold with cats."</p><lb/> 
+               <p>Then Poppy curled herself up in mother's big old arm-chair,<lb/> 
+               the one comfortable piece of furniture they possessed, and pre-<lb/>
+                  <fw type="sig" place="bot-right">D</fw><lb/><pb/> 
+                  <fw type="header" place="top">22 A HOUSE TO LET.</fw><lb/>
+                  
+               tended to go to sleep, all out of kindness to Bright-eyes and<lb/> 
+               his belongings. She lay so still that when Bright-eyes peeped<lb/> 
+               out again, he ventured to come out some way further; still the<lb/>
+                  <figure n="5">
+                     <graphic url="assets/img/documents/Images_alone/Image_13.png"/>
+                     <figDesc>
+                        Image of page 22 containing text and an illustration of a little girl eating at a table.
+                     </figDesc>
+                  </figure><lb></lb>
+                       
+               little figure in the big chair was motionless; he peeped up at<lb/> 
+               her, and the scrap of bacon rind smelt <hi rend="italic">so</hi> good that hunger<lb/> 
+               overcame prudence, and in another minute he was dining most<lb/><pb/> 
+                  <fw type="header" place="top">FLIP'S APPEAL. 23</fw><lb/>
+                  
+               comfortably close to the fire where Poppy had placed the crumbs.<lb/>
+               It was long since he had had so good a meal, but he would<lb/> 
+               not keep it all for himself. Back to the cupboard he flitted,<lb/>
+               returning in a moment with Mrs. Bright-eyes and the four<lb/> 
+               small ones. There was not very much dinner for them after<lb/> 
+               all, but what there was tasted very good, and not the tiniest<lb/> 
+               crumb was left when they had finished.</p><lb/> 
+               <p>All this time Poppy was peeping at them through her fingers,<lb/> 
+               though she took care to keep perfectly still.</p><lb/> 
+               <p>"One, two, three, four," she counted, "oh what fun! <hi rend="italic">Six</hi><lb/> 
+               little mice. My! mustn't they just be hungry to come out so<lb/> 
+               bold—poor little mice. I wish I'd more to give you. I'll try<lb/>
+               and save a scrap or two of my supper. Wouldn't the young<lb/> 
+               lady and gentleman like to see them? That little fellow with<lb/>
+               the funny twist in his tail is the sharpest of all—how he<lb/> 
+               does flash about! I wonder if they won't get to know me<lb/> 
+               quite well once they sees I'm not a-going to hurt 'em."</p><lb/> 
+               <p>She moved her foot a very little, just to try. In an instant,<lb/> 
+               as if by magic, the whole six had disappeared—Poppy could<lb/> 
+               almost have fancied it a dream that they had been there at all!</p><lb/> 
+               <p>She went up the area steps again when she had "washed<lb/> 
+               up," as she called it, though, as the things consisted only of one<lb/><pb/>
+                  <fw type="header" place="top">24 A HOUSE TO LET.</fw><lb/>
+               plate and a knife and fork, it was not a long process. There<lb/> 
+               was the hearth to sweep up however, and a lump of coal to<lb/>
+               be carefully placed so that it would last till mother came in,<lb/> 
+               and tea had to be got ready; so Poppy felt herself quite a<lb/> 
+               housekeeper. She glanced at the opposite house, but there were<lb/>
+               no faces at the nursery window; for just then Jack and Bessie<lb/> 
+               were more profitably occupied in discussing their dinner. So<lb/> 
+               Poppy got out her knitting when she came in again, and<lb/>
+               settled herself in the big arm-chair, wondering how many rounds<lb/> 
+               of her stocking she would be able to get done before mother<lb/> 
+               came home. And then a queer thing happened. A very, <hi rend="italic">very</hi><lb/> 
+               soft sound made her look, not up, but down, for the sound<lb/> 
+               came from below. There, just where her feet would have<lb/>
+               come to had her legs been longer, stood a mouse—a very small<lb/> 
+               one, with a slight twist at the end of his long tail. He lifted<lb/>
+               his two front paws much as a squirrel does when he is holding<lb/> 
+               a nut to nibble, only poor mousey had no nut.</p>
+               <p>"Poppy," he said in a clear squeaky voice, "I have crept<lb/> 
+               out all of myself to speak to you. I am sure you are good<lb/> 
+               and kind. We have been in great trouble—we have been<lb/> 
+               nearly starving, and my Papa and Mamma had almost made<lb/> 
+               up their minds to emigrate" (here the mouse's feelings choked<lb/><pb/> 
+                  <fw type="header" place="top">FLIP'S APPEAL. 25</fw><lb/>
+                  his voice for a moment), "when you came. Your goodness in<lb/> 
+               giving us our dinner to-day has made them think better of it.<lb/>
+                  <figure n="5">
+                     <graphic url="assets/img/documents/Images_alone/Image_14.png"/>
+                     <figDesc>
+                        Image of page 25 containing text and an illustration of a little girl sitting on an armchair looking at a mouse by her feet who is looking back at her.
+                     </figDesc>
+                  </figure><lb></lb>
+                  
+               May we trust to you to take care of us? Will you promise<lb/> 
+               never, never to—to—"</p><lb/> 
+               <p>"To set a cat on you ?" said Poppy. But a faint squeal<lb/> 
+               from the mouse startled her.</p><pb/> 
+            <fw type="header" place="top">26 A HOUSE TO LET.</fw><lb/>
+            
+               <p>"Don’t—don't, I beg of you—don't say the word—I shall<lb/> 
+               die if you say it again."</p><lb/> 
+               <p>Well then, I won't," said Poppy good-naturedly. "And I'll<lb/> 
+               promise you no one shall hurt you, so long as you don't do no<lb/> 
+               mischief to our things. And I'll give you all the scraps I<lb/> 
+               can, though they won't be much. Mother and me's poor folk<lb/>
+               though we do live in a fine house—we're only caretaking<lb/> 
+               you see."</p><lb/> 
+               <p>"Thank you, Poppy," said the mouse. "I shall carry the<lb/> 
+               good news home. You may trust us to do no mischief. We<lb/> 
+               have been very well brought up, I assure you. Thank you<lb/> 
+               very much," and he was flitting away when Poppy stopped<lb/> 
+               him.</p><lb/>
+               <p>"What's your name, mousey?" she said.</p> 
+               <p>"Flip," he replied. "I am the eldest of the family. You<lb/> 
+               may know me by the twist in my tail. In our family the<lb/> 
+               eldest son is always distinguished by this graceful twist. We<lb/> 
+               are very proud of it. Good evening, Poppy."</p><lb/> 
+               <p>He darted off—but as he went, his long tail touched her<lb/> 
+               feet. Poppy jumped up—had she been asleep? One of her<lb/> 
+               knitting needles had dropped out and was sticking between her<lb/> 
+               slipper and her stocking. How provoking! Several stitches had<lb/><pb/> 
+                  <fw type="header" place="top">FLIP'S APPEAL. 27</fw><lb/>
+                  
+               slipped—she had to work hard to finish the rounds she had<lb/>
+               set herself before mother came home. How very funny it was<lb/> 
+               about Flip! Could it have been a dream only? Any way <hi rend="italic">she</hi><lb/>
+               would keep her promise.</p>
+            <figure n="5">
+               <graphic url="assets/img/documents/Images_alone/Image_15.png"/>
+               <figDesc>
+                  Image of page 27 containing text and an illustration of a little girl partially covering her face with her right hand and peering through her fingers to look at six mice who are eating in front of her
+               </figDesc>
+            </figure><lb></lb>
+            
+         </div>
+         <figure n="5">
+            <graphic url="assets/img/documents/Images_alone/Image_16.png"/>
+            <figDesc>
+               Image of page 28 containing text and an illustration of a little girl by a house gate waving at someone.
+            </figDesc>
+         </figure><lb></lb>
+         
+         <div type="chapter" n="4">
+            <head>CHAPTER IV</head>
+               <head type="subheading">CASTLES IN THE AIR.......28</head><lb/> 
+               <p>When Jack and<lb></lb>
+               Bessie came into<lb/> 
+               the day-nursery for their<lb/> 
+               breakfast the next morn-<lb/> 
+               ing they ran to the<lb/> 
+               window to look out.<lb/> 
+               Yes, there at the top of<lb/> 
+               the area steps, looking<lb/> 
+               up and down the street,<lb/> 
+               just like the day before,<lb/>
+               stood Poppy. It was a<lb/> 
+               bright morning, though<lb/> 
+               rather chilly — the sun<lb/> 
+               was in Poppy’s eyes,<lb/> 
+               and she did not see the<lb/> 
+               two faces pressed against<lb/> 
+               the window pane, till<lb/><pb/> 
+                  
+                  <fw type="header" place="top">CASTLES IN THE AIR. 29</fw><lb/>
+                  
+               a tinkling sort of knocking made her look up. Jack was drumming<lb/>
+               on the glass with a tin trumpet. Then Poppy’s face broke out in<lb/> 
+               smiles. She nodded and they nodded. Next a sudden idea struck<lb/> 
+               her. She held out all the fingers of one hand and the fore-<lb/> 
+               finger of the other, bobbing them down in turns to show she<lb/> 
+               was counting.</p><lb/>
+               <p>"One, two, three, four, five, six," she said aloud, as if her voice<lb/> 
+               could possibly have reached them.</p><lb/> 
+               <p>"What can she mean ?" said Bessie, "she keeps counting up to<lb/>
+               six, do you see, Jack? I'll try to make her understand that we'll<lb/> 
+               talk to her again when we go out." And a series of very funny<lb/> 
+               signs and pointings ensued, which unfortunatelv Poppy could <hi rend="italic">not</hi><lb/>
+               understand at all.</p><lb/> 
+               <p>But she kept her eye on the opposite house all the morning,<lb/>
+               and she was at her post when at last the door opened and the two<lb/> 
+               children ran out. The nurses were getting the little ones down<lb/> 
+               stairs and there was always some delay with the perambulator, so<lb/> 
+               Jack and Bessie had time for a word or two.</p><lb/> 
+               <p>"What <hi rend="italic">were</hi> you counting on your fingers this morning, Poppy?"<lb/>
+               asked Bessie.</p><lb/> 
+               <p>"It were the mice, Miss. You would have laughed. There's<lb/>
+                  <fw type="sig" place="bot-right">E</fw><lb/><pb/>
+                  
+                  <fw type="header" place="top">30 A HOUSE TO LET.</fw><lb/>
+                  
+               six on 'em, all six at onst. You never did see nothing so funny.<lb/>
+               And I've promised as I'll give 'em scraps—poor things, they've been<lb/>
+               all but starved."</p><lb/> 
+            <figure n="5">
+               <graphic url="assets/img/documents/Images_alone/Image_17.png"/>
+               <figDesc>
+                  Image of page 30 containing text and an illustration of two little girls and one little boy chatting outside a house
+               </figDesc>
+            </figure><lb></lb>
+            
+               <p>"You've promised," repeated Bessie. "But how could you<lb/>
+               promise <hi rend="italic">mice</hi> anything?"</p><lb/> 
+               <p>Poppy got rather red.</p><lb/><pb/>
+            <fw type="header" place="top">CASTLES IN THE DARK. 31</fw><lb/>
+            
+               <p>"Oh, Miss, don't you laugh at me now, but p'r'aps I were<lb/>
+               dreaming. All the same I promised," and she related Flip's visit<lb/> 
+               the evening before.</p><lb/>
+               <p>Jack and Bessie were delighted. They would have stayed<lb/> 
+               talking to Poppy for some time longer, had not a bumping,<lb/> 
+               jerking sound across the street announced the exit of the per-<lb/> 
+               ambulator. So off they flew. But Poppy's communications<lb/> 
+               gave them plenty to chatter about to each other that morning.<lb/> 
+               <hi rend="italic">Was</hi> it a dream, or could it be that mice could <hi rend="italic">sometimes</hi> speak?</p><lb/> 
+               <p>From this time forward not many days passed on which they did<lb/>
+               not manage to have a little conversation with Poppy. Their nurse<lb/> 
+               noticed her standing at the gate once or twice but without paying<lb/> 
+               particular attention, and as the child bobbed a courtesy and a pleasant<lb/> 
+               good morning, she was quite satisfied when Bessie spoke of her as<lb/> 
+               "the caretaker's little girl opposite." Not that Jack and Bessie had<lb/>
+               the least idea of concealing their acquaintance with Poppy. If any<lb/> 
+               one had asked about it they would have told all there was to tell,<lb/> 
+               but no one happened to do so. Their mother was even more busy<lb/> 
+               than usual just then, as the big sisters were without a governess, and<lb/> 
+               she had herself to help them in preparing their lessons for their<lb/>
+               various masters.</p><lb/><pb/>
+            <fw type="header" place="top">32 A HOUSE TO LET.</fw><lb/>
+            
+               <p>Poppy's mother seemed to be in great request just then. "It<lb/>
+               never rains but it pours," says the proverb, and now that she was<lb/> 
+               living rent free she had more "charing" than during all the<lb/>
+               past hard winter. When she came home in the evening she<lb/> 
+               was often too tired to tell her little daughter the stories that<lb/>
+               had always been the child's favourites—of "when poor father<lb/> 
+               was alive and we lived in the country." "The country" was<lb/> 
+               Poppy's fairyland; she had never seen it that she could re-<lb/>
+               member, she tried to picture it to herself from her mother's<lb/> 
+               descriptions, to be sure, but still, as the good woman told her,<lb/> 
+               "no words could give the <hi rend="italic">feel</hi> of it." And they used to build<lb/> 
+               castles in the air together of a day when they should have<lb/> 
+               saved enough to go for some hours by one of the cheap excursions<lb/> 
+               they saw posters about at the railway stations, "right into the<lb/> 
+               real country."</p><lb/> 
+               <p>But lately the story-telling had been on Poppy's side much more<lb/>
+               than on her mother's. The poor woman was often so tired now<lb/>
+               that she liked better to listen than to talk, and Poppy was very<lb/> 
+               pleased to retail all her conversations with Jack and Bessie, and she<lb/>
+               was also very fond of chattering to her mother about Flip and his<lb/>
+               brothers and sisters.</p><lb/><pb/>
+            <fw type="header" place="top">CASTLES IN THE AIR. 33</fw><lb/>
+            
+               <p>"What a fancy the child has, to be sure," her mother would say<lb/>
+               with a smile. "How I do wish I could show you some of the<lb/>
+               pretty wild creatures as lives in the woods! The squirrels with<lb/> 
+                  <figure n="5">
+                     <graphic url="assets/img/documents/Images_alone/Image_18.png"/>
+                     <figDesc>
+                        Image of page 33 containing text and an illustration of two mice peeping through a gap on a door.
+                     </figDesc>
+                  </figure><lb></lb>
+                  
+               their long tails, and the rabbits a-scuttling about, and the birds.<lb/> 
+               When I was as little as you, Poppy, I used to know 'em all by sight<lb/> 
+               and by sound you might say—you've no notion what a lot of kinds<lb/> 
+               of birds there was down our way."</p><lb/><pb/> 
+            
+            <fw type="header" place="top">34 A HOUSE TO LET.</fw><lb/>
+            
+               <p>"Wouldn't I like to see them!" said Poppy. "I do like alive<lb/> 
+               things, mother. I'd rather a deal have the mice running about than<lb/> 
+               nothing stirring when you're out. And I do believe as the little one<lb/> 
+               with the twisty tail as I was telling you of, is getting to know me.<lb/> 
+               I always put some crumbs for 'em at the same place, and now they'll<lb/>
+               come close to my foot."</p><lb/>
+               <p>"I can’t say as I’m partial to mice," said Poppy's mother. "Still,<lb/> 
+               I don't suppose they can do much harm here in this empty house.<lb/> 
+               If I thought they were mischievous, Poppy, I'd have to get a<lb/> 
+               cat."</p><lb/> 
+               <p>"Oh, mother," almost screamed Poppy, "you'd never go for to<lb/>
+               do that! They'll do no mischief—you may be sure. Flip<lb/> 
+               promised—you remember, mother, I told you. And if it was a<lb/>
+               dream, there's dreams as is true. Oh, mother,, you'll never get<lb/>
+               a cat."</p><lb/> 
+               <p>Poppy looked ready to cry. But her mother comforted her by<lb/> 
+               saying she had no wish to get a cat; "cats was great worries, and<lb/> 
+               took a deal of milk," there was no need for Poppy to work<lb/> 
+               herself up.</p><lb/> 
+               <p>Some one else was very glad to hear what Poppy's mother said.<lb/> 
+               Father Bright-eyes was peeping out of the cupboard, listening.<lb/><pb/> 
+                  <fw type="header" place="top">CASTLES IN THE AIR. 35</fw><lb/>
+                  
+               Things had been better of late, for though the fare was certainly not<lb/> 
+               as good as in the old days, the scraps which Poppy provided were<lb/>
+               much to be preferred to sawdust and oilcloth. And then even if<lb/> 
+               there were not much, at least it could be eaten in peace!</p><pb/>
+            
+            <figure n="5">
+               <graphic url="assets/img/documents/Images_alone/Image_19.png"/>
+               <figDesc>
+                  Image of page 35 containing text and an illustration of a lady sitting on a chair and a little girl sitting on the floor while resting her head on the lap of the lady.
+               </figDesc>
+            </figure><lb></lb>
+            
+            
+         </div>
+         <div type="chapter" n="5">
+            <head>CHAPTER V</head>
+            <head type="subheading">THE BIRTHDAY WISH.......36</head><lb/> 
+            
+            <figure n="5">
+               <graphic url="assets/img/documents/Images_alone/Image_20.png"/>
+               <figDesc>
+                  Image of page 36 containing text and an illustration of three mice, one sitting and two standing by food jars.
+               </figDesc>
+            </figure><lb></lb>
+            
+            <p>E have a great deal to be thankful for," the old<lb/> 
+               mouse had been remarking to his better-half the<lb/> 
+               morning of the very day on which the appalling<lb/> 
+               question of "getting a cat" had been discussed, "the absence<lb/> 
+               of some one who shall be nameless makes up for much. On<lb/>
+               the whole I don't see that we should be likely to mend matters.<lb/>
+               by changing our quarters."</p><lb/><pb/> 
+            <fw type="header" place="top">THE BIRTHDAY WISH. 37</fw><lb/>
+            
+               <p>"Certainly not, in <hi rend="italic">my</hi> humble opinion," put in Flip, with a<lb/> 
+               jerk of his distinguished tail. "I am really in a position to<lb/> 
+               advise you, my dear father, from my intimacy with our bene-<lb/> 
+               factress, Poppy. So long as we conduct ourselves as well-<lb/>
+               bred mice always prefer to do, we have no reason for<lb/> 
+               uneasiness."</p><lb/>
+               <p>Father Bright-eyes looked at his eldest son admiringly.</p><lb/> 
+               <p>"How he expresses himself," he thought. "He is really a<lb/>
+               mouse any parents might be proud of. Take him altogether—<lb/> 
+               the twist in his tail is of course a great natural advantage—but<lb/> 
+               take him altogether we have not done so badly by him, my dear,"<lb/> 
+               he observed to Mrs. Bright-eyes, when sure that Flip was out<lb/> 
+               of hearing. For he was far too sensible, of course, to praise<lb/> 
+               him to his face. "I am not at all surprised that Poppy, as<lb/>
+               he calls her, should have taken him under her special protection."</p><lb/> 
+               <p>The spring was coming on by now. Already some baskets of<lb/> 
+               primroses had found their way down the street where Jack and<lb/> 
+               Bessie and Poppy lived, and one day when, as usual, the opposite<lb/>
+               neighbours were having a little talk while waiting for the<lb/> 
+               perambulator, Jack stuffed a tiny bunch of violets into the small<lb/> 
+               caretaker's hands.</p><lb/>
+            <fw type="sig" place="bot-right">F</fw><lb/><pb/> 
+            <fw type="header" place="top">38 A HOUSE TO LET.</fw><lb/>
+            
+               <p>"My!" she exclaimed, poking her round nose into the middle<lb/>
+               of the posy, "but they do smell sweet. Thank you kindly,<lb/> 
+               Master Jack. Has they come from the country, should<lb/> 
+               you think now, from the real country ?" and her eyes sparkled.</p><lb/> 
+            <figure n="5">
+               <graphic url="assets/img/documents/Images_alone/Image_21.png"/>
+               <figDesc>
+                  Image of page 38 containing text and an illustration of a lady standing and holding a flower basket
+               </figDesc>
+            </figure><lb></lb>
+            
+               <p>"To be sure," Jack replied. "We’ll bring you more next<lb/> 
+               week, Poppy. We're going to the country to spend the day on<lb/> 
+               our birthday."</p><lb/><pb/> 
+            
+            <fw type="header" place="top">THE BIRTHDAY WISH. 39</fw><lb/>
+            
+               <p>"We’ve got the same birthday," said Bessie. "Isn’t it funny?<lb/>
+               though Jack's seven and I'm only six. We have a treat every<lb/> 
+               birthday—a treat and a wish—the treat's to be going to the country,<lb/> 
+               but we haven't fixed the wish yet."</p><lb/> 
+               <p>But Poppy could only repeat, "Going to the country, the real<lb/>
+               country. You'll tell me all about it, master and missy, won't<lb/>
+               you?"</p><lb/> 
+               <p>"Of course. But we've often been there. We go every year.<lb/> 
+               Have you never been in the country, Poppy?"</p><lb/>
+               <p>Poppy shook her head.</p><lb/> 
+               <p>"Never as I can remember," she said. "Mother's going to<lb/> 
+               take me some day, though, only it won't be till she's saved a good<lb/>
+               bit. Do them flowers," and she pointed to the violets, "do they<lb/>
+               grow always? and the primroses?—I'd dearly love to see 'em all<lb/>
+               a-growing."</p><lb/>
+               <p>"They only grow in the spring," said Bessie. "At least—at<lb/> 
+               least the primroses. I'm not quite sure about the violets," and<lb/> 
+               she looked at Jack. But Jack was too wise to commit himself.<lb/>
+               "Poor Poppy, I wish you could come to the country in the<lb/> 
+               spring."</p><lb/>
+               <p>The two children walked away rather more slowly and seriously<lb/><pb/> 
+                  
+                  <fw type="header" place="top">40 A HOUSE TO LET.</fw><lb/>
+                  
+               than usual this morning. It had never come home to them quite<lb/> 
+               so closely how others—children of their own age—have to "do<lb/> 
+               without." And the day that this <hi rend="italic">does</hi> come home to us is a marked<lb/>
+               one in our lives. Marked in a very blessed way if it leads to doing,<lb/> 
+               as well as feeling.</p><lb/>
+               <p>"Jack," said Bessie after a while. "I think my birthday wish is<lb/>
+               beginning to get fixed. Is yours?"</p><lb/>
+               <p>"I—I almost think so too," said Jack</p><lb/>
+               <p>"I <hi rend="italic">had</hi> thought of a doll's dinner-service," said Bessie with a<lb/>
+               slight quiver in her voice.</p><lb/> 
+               <p>"And I <hi rend="italic">was</hi> thinking of a winding-up steam-engine," said Jack<lb/> 
+               rather gruffly.</p><lb/> 
+               <p>And then for a day or two they said no more about it.</p><lb/> 
+               <p>Mammas of all ranks, I think, must be pretty well used to being<lb/> 
+               surprised. Children would not be children, and certainly much<lb/>
+               less nice than they are, if one always knew or at least had a very<lb/>
+               good idea of what they were going to do or say. But Jack's and<lb/> 
+               Bessie's Mamma was rather <hi rend="italic">extra</hi> surprised when, a few days before<lb/> 
+               the double birthday, the two children came to tell her they had<lb/> 
+               fixed what their wish was to be, and that it was "to take Poppy<lb/>
+               with us to the country."</p><lb/><pb/>
+            
+            <fw type="header" place="top">THE BIRTHDAY WISH. 41</fw><lb/>
+            
+               <p>"To take whom?" asked Mamma, hastily running over in her<lb/> 
+               mind all the individuals, dog, cat, toy-horse, or doll, that "Poppy"<lb/> 
+               could possibly be.</p><lb/>
+               <p>"She's the little caretaker at No. 9, and she's never seen<lb/>
+                  <figure n="5">
+                     <graphic url="assets/img/documents/Images_alone/Image_22.png"/>
+                     <figDesc>
+                        Image of page 41 containing text and an illustration of a lady sitting on an armchair by a table and two kids standing next to her and talking to her.
+                     </figDesc>
+                  </figure><lb></lb> 
+                  
+               the country, not to say to remember it. And her mother goes<lb/>
+               out charing, and her real name's Sleena Mary," Bessie ran off<lb/>
+               glibly.</p><lb/> 
+               <p>Mamma looked aghast.</p><lb/><pb/> 
+            
+            <fw type="header" place="top">42 A HOUSE TO LET.</fw><lb/>
+            
+            <figure n="5">
+               <graphic url="assets/img/documents/Images_alone/Image_23.png"/>
+               <figDesc>
+                  Image of page 42 containing text and an illustration of a little boy and a little girl walking on the sidewalk.
+               </figDesc>
+            </figure><lb></lb> 
+            
+               <p>"My dear<lb/>
+               Bessie, what<lb/>
+               has nurse been<lb/> 
+               thinking of?" she exclaimed,<lb/>
+               getting up as she spoke. But<lb/> 
+               Jack and Bessie pulled her<lb/> 
+               back.</p><lb/>
+               <p>"Oh, Mamma dear, it's no<lb/> 
+               harm. Don't be vexed with<lb/>
+               nurse. We've only talked to<lb/>
+               her a little, and she told us<lb/> 
+               about the mice, and she's <hi rend="italic">very</hi><lb/> 
+               good. You would see she's<lb/>
+               good," they intreated. So<lb/>
+               Mamma sat down again and<lb/> 
+               listened to the whole, and her<lb/> 
+               face grew kinder and kinder,<lb/> 
+               as Bessie nudged Jack to ob-<lb/>
+               serve, especially when they came to the part of Poppy's longing<lb/> 
+               to see primroses really a-growing. And the kind look grew more<lb/> 
+               than kind when the two Jacks-in-the-middle explained that the<lb/><pb/> 
+                  
+                  <fw type="header" place="top">THE BIRTHDAY WISH. 43</fw><lb/>
+                  
+               "wish" was not to cost them nothing, but was to be at the price<lb/> 
+               of the self-acting steam-engine and the lovely doll's dinner-service.<lb/> 
+               Only being a prudent Mamma as well as a kind one, all she<lb/>
+               would <hi rend="italic">promise</hi> was to see and think about it</p><lb/><pb/>
+            <figure n="5">
+               <graphic url="assets/img/documents/Images_alone/Image_24.png"/>
+               <figDesc>
+                  Image of page 43 containing text and a small illustration of a snail among flowers.
+               </figDesc>
+            </figure><lb></lb> 
+            
+         </div>
+         <figure n="5">
+            <graphic url="assets/img/documents/Images_alone/Image_25.png"/>
+            <figDesc>
+               Image of page 44 containing text and an illustration of yellow flowers.
+            </figDesc>
+         </figure><lb></lb> 
+         <div type="chapter" n="6">
+            <head>CHAPTER VI.</head>
+            <head type="subheading">FAIRYLAND......44</head><lb/> 
+               <p>very next day Poppy's mother,<lb/> 
+               who happened to be at home,<lb/> 
+               had a visitor—a visitor so gentle<lb/> 
+               and friendly and sympathizing that<lb/>
+               her whole simple story, from the old<lb/> 
+               days of "when father was alive and<lb/> 
+               we lived in the country" to the present<lb/>
+               good-luck of "a winter rent-free," was soon<lb/> 
+               told. And Poppy's--that is to say "Sleena<lb/> 
+               Mary's" — small womanly ways and funny fancies, brought<lb/> 
+               smiles to the visitor's face.</p><lb/> 
+               <p>"Never was such a child for amusin' of herself," said the mother.<lb/> 
+               "She'll be goin' to school again, but I had to keep her at home a<lb/> 
+               bit this winter, for her eyes was weakly and the doctor wouldn't let<lb/><pb/> 
+                  
+                  <fw type="header" place="top">Fairyland. 45</fw><lb/>
+                  
+               her read. But she's better now—the good air of this fine house's<lb/> 
+               set her up."</p><lb/> 
+               <p>"It seems a nice house," said the children's mother, "and you<lb/>
+               keep it so tidy."</p><lb/> 
+               <p>"It's nice and clean all over. The old people as lived here was<lb/> 
+               very pertickler, and Poppy's always a-keeping down the dust," said<lb/> 
+               the caretaker with pride. And she was very proud to show the lady<lb/>
+               through the rooms.</p><lb/> 
+               <p>"It is a very nice house," she repeated as she went. And to<lb/>
+               herself she added— "I think it would be the very thing for <hi rend="italic">them</hi> if<lb/> 
+               they decide upon taking a house, and it would be nice to have them<lb/>
+               so near." The long-looked-for birthday fell on a Wednesday.<lb/> 
+               People are fond of saying that things very seldom turn out as we<lb/> 
+               wish them in this world, and perhaps in some ways this is true.<lb/>
+               Still I have noticed that sometimes, and especially when really good<lb/> 
+               and kind and nice wishes are concerned, things do often turn out very<lb/> 
+               right indeed. That was the case this time. Though only April, the<lb/> 
+               most fickle of months, the day was lovely, quite lovely; the sort of day<lb/> 
+               on which you could <hi rend="italic">feel</hi> that the birds and the flowers and the squirrels<lb/> 
+               and the rabbits, with thoughts of which little Poppy's head was<lb/> 
+               stuffed full, must be all enjoying themselves thoroughly. And never<lb/>
+                  <fw type="sig" place="bot-right">G</fw><lb/>
+                  <pb/> 
+                  
+                  <fw type="header" place="top">46 A HOUSE TO LET.</fw><lb/>  
+                  
+                  <figure n="5">
+                     <graphic url="assets/img/documents/Images_alone/Image_26.png"/>
+                     <figDesc>
+                        Image of page 46 containing text and an illustration of three kids walking in the countryside.
+                     </figDesc>
+                  </figure><lb></lb> 
+                  
+               did children's<lb/> 
+               faces look brighter<lb/>
+               and happier than those<lb/> 
+               of our three little friends,<lb/> 
+               as under the safe care of Nurse No. 2,<lb/>
+               they drove off in the brougham, which<lb/>
+               Papa had said they must have for the<lb/>
+               occasion to the railway. The baby brothers<lb/>
+               kissed their hands from the nursery window, Mamma<lb/>
+               called after them that they must look out for their <lb/>
+               cousin at the station, and Poppy's mother stood, curtseying and<lb/> 
+               smiling at the area gate of No 9, hardly able to believe she was<lb/> 
+               not dreaming.</p><lb/> 
+               <p>And even the Bright-eyes family had no reason to grudge Poppy<lb/><pb/>
+                  <fw type="header" place="top">FAIRYLAND. 47</fw><lb/>  
+                  
+               her treat, for she had begged her mother to put some crumbs in the<lb/> 
+               usual place for them.</p><lb/> 
+               <p>An hour and a half brought the travellers to their journey's end.<lb/>
+               By this time Poppy was almost speechless with delight. The first<lb/> 
+               real green fields and woods had been met by her with cries of pleasure,<lb/>
+               but when, as they went further, the country grew still prettier, and<lb/> 
+               here and there on the banks the yellow primroses smiled up in<lb/> 
+               welcome and the birds flitted about in the sunshine, she grew silent.</p><lb/> 
+               <p>"Don’t you like it, Poppy ?" asked Bessie.</p><lb/>
+               <p>"Bless you, missy, I should rather think I did. I've no more<lb/>
+               words to say—that's what it is," she answered.</p><lb/> 
+               <p>She found her tongue again however when they had got out of<lb/>
+               the train and were walking through the lanes with the cousin who<lb/>
+               had come to meet them with her nurse.</p><lb/>
+               <p>"Shall we go home by the lane and the fields?" asked Delia.<lb/> 
+               "Won't Poppy like it better than the road?"</p><lb/> 
+               <p>For the Jacks-in-the-middles' Mamma had written all about<lb/>
+               Poppy, and Delia meant to join her cousins in making the little<lb/>
+               caretaker's first day in the country as happy as possible.</p><lb/> 
+               <p>"Of course she would, and so would we," said Bessie. "It’s such<lb/>
+               fun climbing stiles after you've been a good long while in London."</p><lb/><pb/>
+            <fw type="header" place="top">48 A HOUSE TO LET.</fw><lb/> 
+            
+               <p>"And this afternoon we are to go to the wood to get primroses<lb/> 
+               for auntie," said Delia. "She wrote that she wanted a lot for<lb/> 
+               a dinner-party. Mamma will lend us her nice flat flower-baskets<lb/> 
+               —we line them with damp moss and it keeps the flowers so much<lb/> 
+               fresher than when they're all on the top of each other in deep<lb/> 
+               baskets. If only it was warmer we might have had tea in the<lb/> 
+               wood."</p><lb/> 
+               <p>"Tea in the wood," repeated Poppy, in amazement.</p><lb/> 
+               <p>Then they had to explain to her all about gipsy teas and picnics,<lb/> 
+               and nutting and blackberrying expeditions, till the poor little girl<lb/> 
+               became quite convinced that, as she told her mother that evening,<lb/> 
+               Heaven itself couldn't be much beautifuller to live in than the<lb/> 
+               country.</p><lb/> 
+               <p>The whole day was to her a dream of delight, and I am quite<lb/> 
+               sure that the sight of her pleasure had a good deal to do with<lb/> 
+               Jack's and Bessie's conviction that this was the happiest birthday<lb/> 
+               they had ever had.</p><lb/>
+               <p>They were all at the primrose gathering when they arrived<lb/>
+               at this conclusion. They had had a very good dinner indeed<lb/> 
+               in Delia's nursery, and Poppy had had dinner with them.</p><lb/> 
+               <p>"For you see, auntie," said Bessie, when Delia's mother had<lb/><pb/> 
+                  
+                  <fw type="header" place="top">FAIRYLAND. 49</fw><lb/> 
+                  
+               consulted her and nurse on this knotty point, "it wouldn't seem so<lb/> 
+               like treating her as a friend if we sent her down to have her dinner<lb/> 
+                  
+                  <figure n="5">
+                     <graphic url="assets/img/documents/Images_alone/Image_27.png"/>
+                     <figDesc>
+                        Image of page 49 containing text and an illustration of adults and kids harvesting flowers.
+                     </figDesc>
+                  </figure><lb></lb> 
+                  
+               in the kitchen, would it? And very likely she'd be too shy to eat.<lb/> 
+               She's not a bit shy with us, is she, Carter?"</p><lb/><pb/>
+            
+            <fw type="header" place="top">50 A HOUSE TO LET.</fw><lb/> 
+            
+               <p>"No, Miss Bessie, she seems to me just right, for she's not forward<lb/>
+               neither. She's really a very well-behaved little girl, ma'am," she<lb/>
+               added, to Delia's mother.</p><lb/>
+               <p>"So I think," she replied.</p><lb/> 
+            
+            <figure n="5">
+               <graphic url="assets/img/documents/Images_alone/Image_28.png"/>
+               <figDesc>
+                  Image of page 50 containing text and an illustration of adults and kids walking through a field.
+               </figDesc>
+            </figure><lb></lb> 
+             
+               <p>They lent Poppy a basket, so that she might fill it herself with<lb/> 
+               primroses for her mother.</p><lb/> 
+               <p>"Wont' she just be pleased?" she said. "She does so love the<lb/> 
+               country. Does these beautiful flowers grow always here, Miss?"</p><lb/><pb/>
+            
+            <fw type="header" place="top">FAIRYLAND. 51</fw><lb/> 
+            
+               <p>"Oh no, only in the spring," Bessie replied. "But in summer<lb/> 
+               there's lots of other kinds—honeysuckle and dog-roses and wild<lb/>
+               hyacinths and—and—oh lots, But I don't think any are as pretty<lb/>
+               as the spring ones; do you, Delia?"</p><lb/> 
+               <p>"I don't know," Delia replied. "Perhaps it seems so because<lb/>
+               we're so pleased to see them after the winter. "Hush," she cried<lb/> 
+               suddenly, "be quite quiet—there's a field-mouse—don't you see?<lb/>
+               there under the leaves. Oh, it's gone! I do so like them; they<lb/>
+               have such bright eyes."</p><lb/> 
+               <p>Poppy gazed before her in astonishment.</p><lb/> 
+               <p>"A field-mouse," she said. "Is there mice as lives in the country,<lb/> 
+               just like there's people as lives there?" </p><lb/>
+               <p>All the other children laughed.</p><lb/> 
+               <p>"Yes, of course," they said.</p><lb/>
+               <p>"I wish I'd seen him," she said. "That'll be something to tell<lb/> 
+               Flip about, next time he comes for his dinner," she added to herself.<lb/>
+               "Poor. Flip! I wish I could have brought him to see the<lb/>
+               country too."</p><lb/><pb/>
+            
+            
+         </div>
+         
+         
+         <div type="chapter" n="7">
+            <head>CHAPTER VII</head>
+            <head type="subheading">A MOUSE CONCLAVE.......52</head><lb/> 
+            <figure n="5">
+               <graphic url="assets/img/documents/Images_alone/Image_29.png"/>
+               <figDesc>
+                  Image of page 52 containing text and an illustration of a lady potting some flowers.
+               </figDesc>
+            </figure><lb></lb> 
+            
+            
+            <p>The happy day came to an end at<lb/>
+               last, as all days both happy and<lb/>
+               sad do. But in one way it did<lb/>
+               not come to an end:<lb/>
+               indeed its pleasure lasted<lb/>
+               on for a good many<lb/>
+               other days to come, for Poppy<lb/>
+               especially — the telling mother all<lb/> 
+               about it was so delightful.</p><lb/>
+               <p>And another pair of ears besides<lb/>
+               mother's took it in too. Flip was there,<lb/>
+               in a corner of the kitchen where no<lb/>
+               one saw him, listening eagerly. He<lb/>
+               had missed Poppy the day before, and a<lb/>
+               great deal of curiosity had been felt by all the Bright-eyes family<lb/> 
+               as to what had become of her, and Flip had run out into the<lb/><pb/> 
+                  
+                  <fw type="header" place="top">A MOUSE CONCLAVE. 53</fw><lb/> 
+                  
+               kitchen extra early that morning to find out if she had come back<lb/>
+               again.</p><lb/> 
+               <p>No, Poppy was not there, only her mother who seemed very<lb/> 
+               busy cooking something—<hi rend="italic">was</hi> she cooking? thought Flip—on the<lb/>
+               dresser. It must be something very nice, surely; she had such a<lb/> 
+               pleased smile on her thin face. He waited till she went into the<lb/>
+               next room, a nice airy room behind the kitchen where she and<lb/>
+               her little daughter slept, and then like a flash of lightning he was<lb/> 
+               up on the top of the dresser, peering about with his gleaming black<lb/>
+               eyes, snuffing about with his sharp little nose, in search of the<lb/>
+               wonderful dish which had so absorbed the caretaker's attention.<lb/> 
+               There was nothing to smell, <hi rend="italic">almost</hi> nothing at least, only a faint,<lb/> 
+               fresh perfume which Flip had never come in contact with before,<lb/>
+               and to <hi rend="italic">see</hi>, why what was that? A round flat dish, an old<lb/> 
+               soup-plate in fact, filled almost to the outside edge with pale<lb/> 
+               yellow blossoms, bordered by soft green leaves, which Poppy's<lb/>
+               mother had carefully set round them as a frame. Flip did not<lb/> 
+               call them blossoms and leaves; poor Flip, in spite of his ances-<lb/>
+               tral tail and his cleverness, he was only a town mouse, he had<lb/> 
+               never seen the fields and the hedges and had no wish to<lb/> 
+               do so!</p><lb/>
+            <fw type="sig" place="bot-right">H</fw><lb/>
+            <pb/> 
+            
+            <fw type="header" place="top">54 A HOUSE TO LET.</fw><lb/>   
+            
+               <p>"Funny, looking things," he said to himself, "they have<lb/> 
+               almost no scent, and I don't <hi rend="italic">think</hi> they can be good to eat."</p><lb/> 
+               <p>He was stepping cautiously along the edge, for he was sharp<lb/> 
+               enough to descry water not far off.</p><lb/>
+               <p>"Let's see," and he nibbled one delicate petal. "Faugh! Horrid,<lb/>
+                  
+                  <figure n="5">
+                     <graphic url="assets/img/documents/Images_alone/Image_30.png"/>
+                     <figDesc>
+                        Image of page 54 containing text and an illustration of a mouse smelling the flowers on a table arrangement.
+                     </figDesc>
+                  </figure><lb></lb> 
+                  
+                  
+               tasteless stuff, what in the world was the silly old woman looking so<lb/> 
+               delighted at?"</p><lb/>
+               <p>Just then Poppy and her mother came into the kitchen; Flip<lb/> 
+               hastily decamped to a shady corner, but not before the caretaker<lb/>
+               had caught sight of his tail.</p><lb/> 
+               <p>"I declare," she said, "if that isn't owdacious! one of those mice<lb/> 
+               of yours, Poppy, a'sniffin at the primroses."</p><lb/><pb/> 
+            
+            <fw type="header" place="top">A MOUSE CONCLAVE. 55</fw><lb/>   
+            
+               <p>"Oh don't touch him, mother," cried the little girl anxiously,<lb/>
+               not that there was any fear truly of the caretaker's being able to<lb/> 
+               do so! "It's Flip, I'm sure; I dare say he knows I've been in<lb/> 
+               the country. I'm not sure if I told him, but he may have heard<lb/>
+               us talking about it."</p><lb/>
+               <p>Flip smiled to himself in his corner, and decided to stay and hear<lb/> 
+               more. But Poppy's mother looked at her rather anxiously: the<lb/>
+               little girl was rubbing her eyes and her rosy face looked drowsy<lb/> 
+               though smiling.</p><lb/>
+               <p>"My deary, you've not had your sleep out, you’re dreaming still,"<lb/>
+               she said.</p><lb/>
+               <p>Poppy shook her head.</p><lb/>
+               <p>"No, I'm not indeed," she said. But seeing that her mother<lb/> 
+               seemed uneasy, she said no more about Flip and his family. "Shall<lb/>
+               I go on telling you about it all yesterday, mother dear?" she said. <lb/>
+               "You like that better than my mouse stories, don't you? But<lb/>
+               there's mice in the country too, did you know that? just as there<lb/> 
+               is children in the town and children in the country, you know,<lb/> 
+               mother. It do seem quite natural-like, don't it ?"</p><lb/> 
+               <p>"Field-mice is not quite the same kind, I don't think," said her<lb/> 
+               mother. "And children is children all the world over, I take it."</p><lb/><pb/> 
+            
+            <fw type="header" place="top">56 A HOUSE TO LET.</fw><lb/>   
+            
+               <p>"No, no, mother, you're wrong there," said Poppy brightly,<lb/> 
+               "and I can prove it you. Many a time you've said to me I was<lb/>
+               more like a country-child than a town-child, 'cos of my rosy cheeks.<lb/>
+               There now, mother."</p><lb/> 
+               <p>They had a laugh over this, and then Poppy went on with her<lb/>
+               glowing account of all she had seen and done the day before,<lb/> 
+               finishing up with the old wish.</p><lb/>
+               <p>"Oh, mother, if we could but go and live in the country like we<lb/> 
+               used to when I was a baby!"</p><lb/>
+               <p>And Flip listened too, with all his ears.</p><lb/> 
+               <p>There was a great discussion that evening in the nest of the<lb/>
+               Bright-eyes family. It is at night, as perhaps you know, that mice<lb/> 
+               are at their best and sharpest, so all questions of importance among<lb/>
+               them are talked over when we, tail-less, two-legged beings are<lb/> 
+               asleep and dreaming, and Flip waited till night to tell his father<lb/> 
+               and mother and brothers and sisters of all the wonderful things<lb/>
+               he had been hearing, and to propose that they should all as a family<lb/>
+               emigrate to the country.</p><lb/>
+               <p>But Papa shook his head. He thought his son very sharp and<lb/>
+               clever, but still—"there is a very great deal to consider and inquire<lb/>
+               about," he said, "a very great deal. First and foremost what about,"<lb/><pb/> 
+                  
+                  <fw type="header" place="top">A MOUSE CONCLAVE. 57</fw><lb/>   
+                  
+               and he glanced cautiously round, "about the nameless one in the<lb/>
+               strange land you speak of?"</p><lb/> 
+            
+            <figure n="5">
+               <graphic url="assets/img/documents/Images_alone/Image_31.png"/>
+               <figDesc>
+                  Image of page 57 containing text and an illustration of the face of a cat.
+               </figDesc>
+            </figure><lb></lb> 
+            
+               <p>"There was no mention of her," exclaimed Flip eagerly. "I<lb/> 
+               fancy none of that race have found their way there."</p><lb/> 
+               <p>"It is to be hoped so," returned Mr. Bright-eyes solemnly. "But<lb/>
+               furthermore, my son, what are the resources of the country? Is<lb/><pb/>
+                  
+                  <fw type="header" place="top">58 A HOUSE TO LET.</fw><lb/>     
+                  
+               there cake? Is there biscuit? Are there even such common<lb/>
+               necessaries as bread-crumbs and cheese?"</p><lb/>
+               <p>Flip hesitated, he had not gone into all these matters of detail<lb/>
+               as yet; no doubt the cousins of whom Poppy had spoken, would<lb/> 
+               furnish them with all information. But here his Mamma interrupted.<lb/> 
+               She did not feel too sure on that point; there were cousins<lb/>
+                  
+                  <figure n="5">
+                     <graphic url="assets/img/documents/Images_alone/Image_32.png"/>
+                     <figDesc>
+                        Image of page 58 containing text and an illustration of mice chatting by a mouse hole.
+                     </figDesc>
+                  </figure><lb></lb>  
+                  
+               and cousins, and these country cousins were but distant con-<lb/>
+               nections. She remembered, but vaguely only, having heard of<lb/>
+               them in her young mousehood, but certainly not as <hi rend="italic">near</hi><lb/> 
+               relatives. Flip began to feel rather small; suddenly a bright idea<lb/>
+               struck him.</p><lb/><pb/> 
+            
+            <fw type="header" place="top">A MOUSE CONCLAVE. 59</fw><lb/>  
+            
+               <p>"Permit me, my dear parents," he said. "I do not see that<lb/> 
+               any of the objections you have urged are very important, though<lb/> 
+               of course they should be considered. But a new reflection strikes<lb/>
+               me, which I fear good feeling will force us to give in to. However<lb/>
+               greatly to our advantage it might be to emigrate, what of our bene-<lb/>
+               factors and friends, Poppy and her mother! Would it not be<lb/> 
+               too ungrateful, too heartless of us to leave them? Think of<lb/> 
+               Poppy's distress!" here his voice broke and his emotion spread to<lb/> 
+               the others. The whole family wept silently. "No, no," Flip<lb/>
+               continued, "we cannot think of it. I withdraw my proposal. For<lb/> 
+               Poppy's sake, for dear Poppy's sake the Bright-eyes family will not<lb/>
+               desert No. 9."</p><lb/>
+               <p>"Hear, hear," exclaimed the five other voices, "bravo, Flip, for<lb/>
+               Poppy's sake we will not desert No. 9."</p><lb/><pb/>
+            
+            
+         </div>
+         
+         <figure n="5">
+            <graphic url="assets/img/documents/Images_alone/Image_33.png"/>
+            <figDesc>
+               Image of page 60 containing text and an illustration of a little girl sitting on an armchair and resting her head on her right arm.
+            </figDesc>
+         </figure><lb></lb>  
+         
+         <div type="chapter" n="8">
+            <head>CHAPTER VIII</head>
+            <head type="subheading">POPPY GIVES AND TAKES ADVICE......60</head><lb/> 
+            <p>OPPY was sitting alone in the kitchen<lb/>
+               next afternoon—that is to say the<lb/>
+               afternoon but one after the birthday treat<lb/> 
+               -at her knitting as usual. Her mother<lb/> 
+               was out, but she had promised to<lb/> 
+               be home by tea-time.</p><lb/>
+               <p>"I wish she would come," thought<lb/> 
+               the little girl. "I've several more<lb/>
+               things to tell her that I'd for-<lb/> 
+               gotten. How nice it would be to<lb/> 
+               be living somewhere where mother<lb/>
+               didn't need to go out all day and<lb/> 
+               leave me alone; I'll be glad to go<lb/>
+               back to school again," and she gave a little sigh. "I wonder<lb/> 
+               what Master Jack and Miss Bessie are doin' to-day. They said<lb/>
+               they'd come over to see me soon, but of course they've got their<lb/><pb/> 
+                  
+                  <fw type="header" place="top">POPPY GIVES AND TAKES ADVICE. 61</fw><lb/>   
+                  
+               lessons to do and a many other things, and it'd never do, as<lb/>
+               mother says, for me to put myself for'ard too much, though<lb/> 
+               they've been so wonderful good to me,"</p><lb/> 
+               <p>She was feeling a little dull after the great excitement of the<lb/>
+               birthday treat, and perhaps she was still rather tired with the rail-<lb/>
+               way and the exercise in the fresh air, all so unusual in her quiet<lb/> 
+               life. The knitting-needles dropped from her hands, her little<lb/> 
+               round head fell back against the rail of the high, old-fashioned<lb/>
+               rocking-chair, and Poppy was fast asleep.</p><lb/>
+               <p>Suddenly—she sat straight up with a start—something had touched<lb/>
+               her foot, nay, something was moving right up her leg and—lo!<lb/> 
+               and behold—a pair of bright eyes were staring up in her face.<lb/>
+               Flip, tail and all, was sitting on her knee! For half an instant<lb/> 
+               Poppy felt inclined to scream. Even if one is on very friendly terms<lb/>
+               with mice one doesn't <hi rend="italic">quite</hi> like to feel them running over one.<lb/>
+               But before she had time to get her breath for even the tiniest cry,<lb/> 
+               a little voice stopped her.</p><lb/> 
+               <p>"Forgive me, dear Poppy, I beg of you," it said. "I would<lb/> 
+               not have taken such a liberty as to run up your leg, had not<lb/> 
+               all other means of attracting your attention failed."</p><lb/>
+               <p>"Dear me," thought Poppy, "how very grandly he talks!<lb/> 
+               I wonder if he goes to school now and learns all those long words<lb/>
+                  <fw type="sig" place="bot-right">I</fw><lb/>
+                  <pb/> 
+                  
+                  <fw type="header" place="top">62 A HOUSE TO LET.</fw><lb/>  
+                  
+               there?" But as she was afraid of hurting Flip's feelings she did<lb/>
+               not say this aloud.</p><lb/> 
+               <p>"Never mind," she replied. "I didn't like it much when I<lb/> 
+               felt you on my legs, but if you'll sit still now and not flop about<lb/>
+               your long tail I dare say I'll get used to you. Why haven't<lb/>
+               you been to see me for so long—though<lb/> 
+                  
+                  <figure n="5">
+                     <graphic url="assets/img/documents/Images_alone/Image_34.png"/>
+                     <figDesc>
+                        Image of page 62 containing text and an illustration of a little girl sitting on an armchair talking to a mouse who is standing on her lap.
+                     </figDesc>
+                  </figure><lb></lb>  
+                  
+                  
+               to be sure," she added, with considerable<lb/>
+               pride, "I've been away—you didn't know,<lb/>
+               did you, that I'd been in the country—ever<lb/> 
+               so far?"</p><lb/> 
+               <p>Flip gave a superior smile,<lb/>
+               but I am afraid it was lost<lb/>
+               on Poppy. It takes a<lb/> 
+               good deal of education to<lb/> 
+               see when a mouse is smiling.</p><lb/>
+               <p>"Oh dear, yes," he said,<lb/>
+               "I know all about it. I<lb/>
+               ventured to listen to all<lb/>
+               you were telling your<lb/>
+               good mother yesterday, and<lb/> 
+               it gave me great food for<lb/> 
+               thought. In fact—I particularly wanted to<lb/><pb/>
+                  
+                  
+                  <fw type="header" place="top">POPPY GIVES AND TAKES ADVICE. 63</fw><lb/>  
+                  
+               tell you about it, that was why I intruded this afternoon—we had<lb/>
+               a very serious discussion last night as to whether we, the Bright-<lb/>
+               eyes family, might not do well to emigrate ourselves to the country.<lb/> 
+               Hearing of our cousins still being there made us feel we should<lb/>
+               not be without friends; and there seem to be other advantages.<lb/>
+               You—you do not appear to have come across any member of the<lb/> 
+               —the family who shall be nameless?" he added, dropping his voice<lb/> 
+               and speaking rather nervously.</p><lb/>
+               <p>Poppy did not immediately reply.</p><lb/>
+               <p>"I'd really like to put him down a little," she said to herself,<lb/>
+               "he <hi rend="italic">is</hi> so affected. Well," she added aloud, "and when are you<lb/>
+               thinking of starting—all six of you, I suppose? And how do you<lb/>
+               mean to get there? And how would you like sleeping out in the<lb/>
+               fields and hedges, where it's pretty cold very often I dare say,<lb/> 
+               you that's used to a nice warm kitchen! And how would you do<lb/> 
+               without the scraps and crumbs <hi rend="italic">we</hi> give you; I suppose you think<lb/>
+               you'd get better fare from your grand-cousins—eh?"</p><lb/>
+               <p>Flip looked very reproachful.</p><lb/> 
+               <p>"Poppy," he said, "you might listen to all I have to tell you.<lb/> 
+               We decided against it. I proposed and it was unanimously agreed<lb/> 
+               that—" and here Flip's feelings became too much for him, he lifted<lb/>
+               up one paw and wiped his right eye, "that it would be—would be<lb/><pb/>
+                  
+                  <fw type="header" place="top">64 A HOUSE TO LET.</fw><lb/>  
+                  
+               <hi rend="italic">ungrateful</hi>, Poppy, ungrateful to you and to your good mother<lb/> 
+               who have been kind friends to us, to leave you. No, Poppy, we<lb/> 
+               do not deserve your sharp words—we decided that we would not<lb/>
+               desert No. 9."</p><lb/>
+               <p>Poppy's tender heart was touched at once.</p><lb/> 
+               <p>"Poor Flip," she exclaimed, "I'm very sorry if I've hurt your<lb/>
+               feelings. But I'm very glad you've given up the idea, for though<lb/> 
+                  
+                  <figure n="5">
+                     <graphic url="assets/img/documents/Images_alone/Image_35.png"/>
+                     <figDesc>
+                        Image of page 64 containing text and an illustration of a standing mouse with a scared expression.
+                     </figDesc>
+                  </figure><lb></lb>    
+                  
+               I wouldn't have mentioned it if you hadn't asked<lb/>
+               me—for I know you don't like talking about it<lb/>
+               —at Miss Delia's house, Miss Delia's own<lb/> 
+               cousin to Master Jack and Miss Bessie<lb/> 
+               over the way, and it was her Mamma's<lb/> 
+               house we went to, so I know all<lb/> 
+               about it, well, at her house there's<lb/> 
+               a very big, <hi rend="italic">very</hi> big—I think they<lb/> 
+               call her a Pushon—or some name<lb/>
+               like that, a <hi rend="italic">very</hi> big c—"</p><lb/>
+               <p>"Stop! stop! oh stop!<lb/>
+               Poppy," cried<lb/> 
+               Flip, and Poppy<lb/> 
+               could see that<lb/>
+               he was trembling<lb/><pb/>
+                  
+                  <fw type="header" place="top">POPPY GIVES AND TAKES ADVICE. 65</fw><lb/>  
+                     
+               all over, "do not, I entreat of you do not say the word.<lb/>
+               How thankful, oh how thankful I am that we gave up the<lb/> 
+               idea!"</p><lb/>
+               <p>"Yes, indeed, and so you may be," said Poppy. "For I<lb/>
+               rather fancy there’s more c------ more of them about. There's<lb/> 
+               stables you know, and all sorts of farm places, and there's sure<lb/>
+               to be—"</p><lb/>
+               <p>"Say no more," sighed Flip. "Ah, how I pity our poor<lb/>
+               cousins!"</p><lb/>
+               <p>Poppy looked puzzled.</p><lb/> 
+               <p>"I don't think field-mice are the same," she said. "They live<lb/> 
+               out-of-doors altogether you see—but <hi rend="italic">you</hi> couldn't do that, Flip, you'd<lb/>
+               die of cold. Best let well alone."</p><lb/>
+               <p>Just then the door was heard to open; the caretaker was coming<lb/>
+               in. Off darted Flip, and Poppy sat up and rubbed her eyes.<lb/>
+               "My deary, have you been taking a nap?" said her mother.</p><lb/> 
+               <p>"I don't know," Poppy replied. And after a minute she spoke<lb/> 
+               again, "Mother," she said, "is it wrong of me to want so to go<lb/>
+               to live in the country? Is it best to be pleased always to stay where<lb/> 
+               one is?"</p><lb/>
+               <p>"It's best to do one's duty, and things gets clear as one goes<lb/>
+               on," said her mother. "Don't think too much about it, deary.<lb/><pb/> 
+                  
+                  <fw type="header" place="top">66 A HOUSE TO LET.</fw><lb/>  
+                  
+                  <figure n="5">
+                     <graphic url="assets/img/documents/Images_alone/Image_36.png"/>
+                     <figDesc>
+                        Image of page 66 containing text and an illustration of a standing lady holding a little girl.
+                     </figDesc>
+                  </figure><lb></lb>    
+                  
+               If it came in our<lb/> 
+               way to go back<lb/> 
+               to live in the<lb/> 
+               country, as <hi rend="italic">was</hi><lb/>
+               our home you<lb/> 
+               may say, we'd be<lb/>
+               very happy I<lb/> 
+               make no doubt.<lb/> 
+               But frettin' for a<lb/> 
+               thing one can't<lb/>
+               have is wrong.<lb/>
+               Do your duty and<lb/> 
+               trust as we won't<lb/>
+               be forgotten.<lb/>
+               That's what I says<lb/> 
+               to myself," said<lb/>
+               the poor woman.</p><lb/> 
+               <p>And then<lb/>
+               Poppy and her<lb/> 
+               mother had a<lb/>
+               cheerful tea to-<lb/>
+               gether.</p><lb/><pb/>
+            
+            
+         </div>
+         
+         <figure n="5">
+            <graphic url="assets/img/documents/Images_alone/Image_37.png"/>
+            <figDesc>
+               Image of page 67 containing text and an illustration of a little girl sitting outdoors.
+            </figDesc>
+         </figure><lb></lb>  
+         
+         <div type="chapter" n="9">
+            <head>CHAPTER IX</head>
+            <head type="subheading">BAD NEWS......67</head><lb/> 
+            <p>DAY or two after Poppy's conversation<lb/> 
+               with Flip, there came a particularly bright<lb/>
+               and sunny morning. Such mornings, in<lb/> 
+               London especially, are rare in early spring-<lb/> 
+               time.</p><lb/> 
+               <p>"It does one good to see the sun<lb/>
+               shining so," said the caretaker, as she<lb/> 
+               set off on a day's charing. "You<lb/>
+               might bring your work and sit on<lb/> 
+               the top of the area steps a bit,<lb/>
+               Poppy, if you put your little shawl<lb/> 
+               on, after you've tidied up."</p><lb/>
+               <p>"Yes, mother, and may be I'll<lb/> 
+               see Master Jack and Miss Bessie if they<lb/>
+               pass. Such a fine morning they're pretty sure to be goin' out a<lb/>
+               walk early," the little girl replied.</p><lb/>
+               <p>She was not mistaken. Just about eleven o'clock when she<lb/><pb/> 
+                  
+                  <fw type="header" place="top">68 A HOUSE TO LET.</fw><lb/>  
+                  
+               and her knitting needles were comfortably settled on the top<lb/>
+               step, the door of the house opposite opened and the usual little<lb/> 
+               party sallied forth. Jack and Bessie were across the street in<lb/>
+               an instant.</p><lb/> 
+               <p>"Good morning, Poppy," they both exclaimed. "We've been<lb/> 
+               so wanting to see you. Were you very tired the day after our<lb/>
+               birthday?"</p><lb/> 
+               <p>"I was a bit sleepy," Poppy answered, her round face broadening<lb/> 
+               out into a smile, "but what did that matter? Oh, Miss Bessie,<lb/> 
+               but it was a beautiful day! I'll never forget it—no, never. I've<lb/> 
+               been wantin' dreadful to see you to tell you again how I did enjoy it!"</p><lb/>
+               <p>"I <hi rend="italic">am</hi> so glad you did," exclaimed Bessie, and Jack joined in<lb/>
+               of course.</p><lb/> 
+               <p>"You'll have some more treats like it some day p'r'aps," said he in<lb/> 
+               his slow way. He was not near so quick as Bessie, though he was<lb/>
+               a year older. "When we go to the country—we always do, you<lb/> 
+               know, about July or August, isn't it, Bessie?—we're going to ask<lb/>
+               Mamma for you to come there, aren't we, Bessie?"</p><lb/>
+               <p>"Oh, I do hope it'll be in my holidays," said Poppy, clasping<lb/> 
+               her hands together."(sic) Do you think it will, miss? For I'm goin'<lb/>
+               to school again now reg'lar. I'm to begin on Monday."</p><lb/>
+               <p>But their plans were just then interrupted by the voice of the<lb/><pb/>
+                  
+                  <fw type="header" place="top">BAD NEWS. 69</fw><lb/>  
+                  
+               under-nurse who had joined them. She had got little Leonard,<lb/> 
+               the baby but one, by the hand this morning, for it was so<lb/>
+               fine and dry nurse thought it would do him good to walk,<lb/> 
+               and <hi rend="italic">the</hi> baby was having an extra long sleep, and was not<lb/> 
+               therefore ready to come out so early.</p><lb/> 
+            
+            <figure n="5">
+               <graphic url="assets/img/documents/Images_alone/Image_38.png"/>
+               <figDesc>
+                  Image of page 69 containing text and an illustration of a lady standing outside a house with a toddler while talking to a little girl.
+               </figDesc>
+            </figure><lb></lb>  
+            
+               <p>"Is your mother in, Poppy?" Carter asked, and on the child<lb/>
+               shaking her head, "Will she be in to-morrow?" the<lb/> 
+               nurse went on, "No, I don't mean to-<lb/>
+               morrow, for that's Sunday, Monday,<lb/> 
+               I should say?"</p><lb/>
+               <p>"Yes," Poppy went on, "sure<lb/>
+               to be. She ain't a goin'<lb/> 
+               out so much now, for<lb/> 
+               you see I'm goin' to<lb/>
+               school, and it don't do<lb/> 
+               to leave the house too<lb/>
+               much. Yes, I know<lb/>
+               mother'll be in all<lb/> 
+               Monday."</p><lb/>
+               <p>"That's all right<lb/> 
+               then," said Carter. "I<lb/> 
+               had a sort of message<lb/>
+                  <fw type="sig" place="bot-right">K</fw><lb/>
+                  <pb/> 
+                  
+                  <fw type="header" place="top">70 A HOUSE TO LET.</fw><lb/> 
+                  
+               for her, but if she's to be in on Monday, there's no need to<lb/> 
+               explain. It'll be all right."—"The child wouldn't understand,<lb/>
+               the ladies will tell her mother themselves," thought the nurse<lb/> 
+               to herself, in which she made a mistake, not knowing how very<lb/> 
+               "understanding" Poppy was. And this mistake of hers caused<lb/>
+               a good deal of sorrow that might have been avoided.</p><lb/> 
+               <p>Then the children bade their little friend good-bye and went<lb/>
+               on for their walk, leaving her with new fancies out of which<lb/>
+               to spin pleasant day-dreams.</p><lb/> 
+               <p>"To go down to see them in the country again," thought Poppy.<lb/>
+               "Oh, I do hope it'll be in my holidays. I'll work my best at school,<lb/>
+               that I will, so as I'll deserve a treat if it comes, as mother<lb/>
+               says."</p><lb/>
+               <p>And full of these good resolutions, the little maiden set off for<lb/> 
+               school on Monday morning. She was a favourite there, for she<lb/>
+               was both quick and willing, and she was pleased to find herself<lb/>
+               put back in her former place, even though she had been three<lb/>
+               months absent.</p><lb/>
+               <p>"You were well on for your age before you were away,<lb/> 
+               Selina," the teacher said. "I should be sorry to put you back. If<lb/> 
+               you can work a little extra at home for a week or two, I think<lb/> 
+               you may keep up. Your eyes are quite well again?"</p><lb/><pb/>
+            
+            <fw type="header" place="top">BAD NEWS. 71</fw><lb/> 
+            
+            <figure n="5">
+               <graphic url="assets/img/documents/Images_alone/Image_39.png"/>
+               <figDesc>
+                  Image of page 71 containing text and an illustration of a little girl happily walking back home and other kids outside a school in the background.
+               </figDesc>
+            </figure><lb></lb>  
+            
+               <p>"Yes, ma'am, only mother<lb/> 
+               won't let me use 'em much<lb/>
+               by candlelight. I do my<lb/> 
+               knitting mostly of an even-<lb/> 
+               ing."</p><lb/>
+               <p>"That's right. But the<lb/>
+               days are getting longer now.<lb/>
+               You'll have plenty of time<lb/> 
+               by daylight for all you need<lb/> 
+               to do."</p><lb/> 
+               <p>Swinging her bag of<lb/>
+               books little Poppy<lb/>
+               ran cheerily home.<lb/>
+               It was nice to know<lb/> 
+               mother would be there. What had<lb/>
+               the nurse asked if she'd be in for?<lb/> 
+               she wondered. She had forgotten about it till now, and she had<lb/> 
+               not told her mother. But the nurse had said it didn't matter—<lb/>
+               perhaps it was just that Bessie's Mamma was coming over to speak<lb/> 
+               to the charwoman, as she had done before.</p><lb/> 
+               <p>Yes, mother was there; the door was opened as soon as Poppy<lb/>
+               knocked. And mother smiled and listened to all the child had<lb/><pb/> 
+                  
+                  <fw type="header" place="top">72 A HOUSE TO LET.</fw><lb/>
+                  
+               to tell, so that for a moment or two, Poppy did not notice that she<lb/>
+               was pale and her eyes rather red, as if she had been crying a<lb/> 
+               little. But as soon as she did see it she flew to her mother and<lb/> 
+               kissed her.</p><lb/>
+               <p>"Is there anything the matter? Are you ill, dear mother?"<lb/> 
+               she asked anxiously.</p><lb/>
+               <p>"No, no, deary," said the poor woman, trying to smile and<lb/> 
+               checking back the tears, "it's downright ongrateful of me, it is,<lb/>
+               to make a trouble of what was bound to come. I should be<lb/> 
+               thankful for the good its done us, you 'specially, Poppy. You're<lb/> 
+               not to say the same child as when we came here, and—"</p><lb/> 
+               <p>Poppy's rosy face grew pale too.</p><lb/>
+               <p>"I know," she said, "the house is took."</p><lb/> 
+               <p>Her mother answered more brightly,</p><lb/> 
+               <p>"Not to say <hi rend="italic">took</hi>, but it looks like it," she said. "But, Poppy<lb/> 
+               love, we mustn't make a trouble of it, we mustn't indeed. There's<lb/> 
+               been some ladies to look at it, and by all I could hear they liked<lb/> 
+               it very much and said it seemed just the thing. They were<lb/> 
+               very civil to me and give me a shilling for my trouble—real ladies<lb/> 
+               they was. But of course I couldn't have axed no questions as to<lb/>
+               when it'd be for, and such-like. We'll just have to cheer-up and<lb/>
+               make the best of it. I'll step round to the agent's in a few days,<lb/><pb/>
+                  
+                  <fw type="header" place="top">BAD NEWS. 73</fw><lb/>
+                  
+                  <figure n="5">
+                     <graphic url="assets/img/documents/Images_alone/Image_40.png"/>
+                     <figDesc>
+                        Image of page 73 containing text and an illustration of a lady sitting on an armchair holding a little girl who is standing in front of her.
+                     </figDesc>
+                  </figure><lb></lb>  
+                  
+               if I don't hear nothing, and find out, and if it's got to be, we must<lb/>
+               look out for a nice little room again, or maybe two."</p><lb/>
+               <p>"Will you go back to Smith Street, do you think, mother?"<lb/> 
+               asked Poppy in a voice which she vainly tried to keep from<lb/> 
+               trembling.</p><lb/>
+               <p>The caretaker shook her head.</p><lb/>
+               <p>"I don't think Smith Street was healthy," she said. "No, I'll try<lb/><pb/>
+                  
+                  <fw type="header" place="top">74 A HOUSE TO LET.</fw><lb/>
+                  
+               and find somewhere nicer. And who knows—I might get another<lb/> 
+               house to keep. The agent knows I'm trusty and careful."</p><lb/>
+               <p>"But not far from here, mother," said Poppy. "I'd never see<lb/> 
+               Master Jack and Miss Bessie if it was far."</p><lb/> 
+               <p>Her mother promised to do her best. But they were both very<lb/>
+               sad, poor things. Curiously enough Poppy never thought again of<lb/>
+               the nurse's undelivered message—it never struck her that it could<lb/> 
+               have anything to do with the visit of the stranger ladies to see the<lb/> 
+               house.</p><lb/><pb/>
+            
+            <figure n="5">
+               <graphic url="assets/img/documents/Images_alone/Image_41.png"/>
+               <figDesc>
+                  Image of page 74 containing text and an illustration of a flower wall arrangement.
+               </figDesc>
+            </figure><lb></lb>  
+            
+         </div>
+         <div type="chapter" n="10">
+            <head>CHAPTER X</head>
+            <head type="subheading">DELIA'S BIG SISTER........75</head><lb/> 
+            
+            <figure n="5">
+               <graphic url="assets/img/documents/Images_alone/Image_42.png"/>
+               <figDesc>
+                  Image of page 75 containing text and an illustration of a man and a woman standing outside a house while the man is talking to the woman.
+               </figDesc>
+            </figure><lb></lb>  
+            
+            <p>FEW days went on and no-<lb/> 
+               thing was heard by Poppy<lb/> 
+               and her mother about the<lb/> 
+               house being taken. They<lb/>
+               were almost beginning to<lb/> 
+               hope that it had been a<lb/> 
+               false alarm, for "there's<lb/> 
+               many a slip 'twixt the cup<lb/> 
+               and the lip," said the caretaker,<lb/> 
+               who was rather fond of proverbs,<lb/>
+               when one morning, just as Poppy<lb/> 
+               was coming in from school, there appeared a man sent by the<lb/>
+               agent to take down the board announcing that the "desirable<lb/>
+               residence was to be sold or let."</p><lb/> 
+               <p>"And you'll clean off the paper in the front window too, please,"<lb/> 
+               said the young man, civilly enough, as he was leaving.</p><lb/><pb/>
+            
+            <fw type="header" place="top">76 A HOUSE TO LET.</fw><lb/>
+            
+               <p>"Then it's quite true — the house is really taken?" she<lb/> 
+               said.</p><lb/>
+               <p>"Certainly it is," he replied, "and a good job too for the owners."</p><lb/> 
+               <p>"To be sure," she said, trying to smile, "what's one man's<lb/> 
+               meat is another man's poison," which the agent thought rather a<lb/> 
+               good joke.</p><lb/> 
+               <p>"You don't know as your gentleman is in want of a caretaker<lb/> 
+               for any other house, do you?" she said timidly.</p><lb/>
+               <p>"Can't say, I'm sure. But there's houses dropping in every<lb/> 
+               day. T'would do no harm for you to step round and ask for<lb/> 
+               yourself. And oh, by the by, I was forgetting I was to tell you<lb/> 
+               you needn't turn out till you hear more. The party that's taken the<lb/>
+               house might want you to stay on a bit when their things begin<lb/>
+               to come in—"</p><lb/>
+               <p>"When are they coming?"</p><lb/> 
+               <p>"They want to be in and settled by the middle of May," he<lb/>
+               said. "You'll come in for the cleaning-down, maybe. You see<lb/> 
+               there's not much painting or papering needed; it's in such<lb/> 
+               good condition."</p><lb/> 
+               <p>And with these words he took his departure.</p><lb/> 
+               <p>Considering what he had told her, Poppy's mother thought it<lb/>
+               best not to "step round" to the agent's.</p><lb/><pb/> 
+            
+            <fw type="header" place="top">DELIA'S BIG SISTER. 77</fw><lb/>
+            
+               <p>"They might think me a worrit," she said to her little daughter,<lb/> 
+               "seein' as how they've already spoke for me to the gentlefolk as<lb/> 
+               has bought the house. We must just wait a bit, Poppy, and see."</p><lb/> 
+            
+            <figure n="5">
+               <graphic url="assets/img/documents/Images_alone/Image_43.png"/>
+               <figDesc>
+                  Image of page 77 containing text and an illustration of ladies standing and chatting outside a house.
+               </figDesc>
+            </figure><lb></lb>  
+            
+               <p>All the same, without saying anything to her little daughter,<lb/> 
+               she inquired among some of her former neighbours about a room<lb/> 
+               in some decent locality in case nothing else in the way of caretaking<lb/>
+                  <fw type="sig" place="bot-right">L</fw><lb/>
+                  <pb/>
+                  
+                  <fw type="header" place="top">78 A HOUSE TO LET.</fw><lb/>  
+                    
+               turned up. She had been out on this errand the following Wednesday<lb/> 
+               afternoon, Poppy's half-holiday, leaving the little girl in charge—<lb/>
+               Poppy only thought that her mother had been out shopping<lb/> 
+               —so as the caretaker came near to number nine on her return,<lb/>
+               she was surprised to see the child looking out for her with evident<lb/> 
+               eagerness.</p><lb/>
+               <p>"Nothing wrong, deary?" she said cheerfully, though with a<lb/> 
+               little sinking at her heart. Her small "house hunting" on her<lb/> 
+               own account had not tended to raise her spirits; she minded nothing<lb/> 
+               for herself, but for Poppy! The few rooms within her means<lb/> 
+               seemed sadly poor and stuffy; surely the rents had gone up even<lb/>
+               in the last few months? "nothing wrong?" she repeated.<lb/>
+               Supposing the new owners of the house were coming in at<lb/> 
+               once, and did not want her at all?</p><lb/>
+               <p>"No, no, mother, at least I don't think so. The ladies, at least<lb/> 
+               one of them, has been here; it was quite a young lady; she came<lb/>
+               to take a measure for her Mamma she said, and oh! just fancy,<lb/> 
+               mother, she was Miss Delia's—Miss Delia-in-the-country's big<lb/>
+               sister! She's stayin' over the way, and she knowed me—she<lb/>
+               said, 'Well, my little girl, and how have you been getting<lb/>
+               on?'"</p><lb/>
+               <p>Poppy's mother was very much interested.</p><lb/><pb/>
+            
+            <fw type="header" place="top">DELIA'S BIG SISTER. 79</fw><lb/>
+            
+               <p>"I wish I could see some of the ladies," she said. "They'd<lb/>
+               maybe speak a word for me for the cleaning."</p><lb/> 
+               <p>"If Miss Delia had been there I could have said somethin' about<lb/>
+               it," Poppy added. "If only I wasn't at school all day, mother,<lb/>
+               I'd have ever so much more chance of seein' Master Jack and Miss<lb/>
+                  
+                  <figure n="5">
+                     <graphic url="assets/img/documents/Images_alone/Image_44.png"/>
+                     <figDesc>
+                        Image of page 79 containing text and an illustration of two ladies sitting down at a dinner table and chatting.
+                     </figDesc>
+                  </figure><lb></lb>  
+                  
+               Bessie. I'm sure they'll be sorry when we go away from this house;<lb/>
+               they're real kind, and so's their Mamma."</p><lb/>
+               <p>"But if so be as it's their cousins as is comin', they'll be pleased<lb/>
+               at that too," said her mother. "Goods and bads is queerly mixed<lb/><pb/>
+                  
+                  <fw type="header" place="top">80 A HOUSE TO LET.</fw><lb/>
+                  
+               up in this world. Any way I'm right down glad you had your day<lb/>
+               in the country with an easy mind, my deary."</p><lb/> 
+               <p>Over the way in Jack's and Bessie's home the same subject, little<lb/>
+               as Poppy and her mother suspected it, was being talked about.</p><lb/> 
+               <p>"I saw the little girl—I forget her name—the caretaker's little<lb/>
+               girl at number nine, Auntie, when I went over there to measure<lb/> 
+               the drawing-room mantelpiece for mother," said Constance, Delia's<lb/>
+               "big sister," as Poppy had described her.</p><lb/>
+               <p>Her aunt started.</p><lb/>
+               <p>"Oh, by the by, I meant to have gone over to speak to the<lb/> 
+               poor woman. I did send a message by Carter to tell her not to<lb/> 
+               be uneasy. But it was difficult for me to know what to say till<lb/>
+               your mother had seen her for herself."</p><lb/>
+               <p>"But Mamma did see her for herself, the other day you know,<lb/>
+               when she came to look over the house," said Constance. "Didn't<lb/> 
+               she tell her then what we've been thinking of?"</p><lb/>
+               <p>"No, several things had to be considered first and some inquiries<lb/> 
+               made. It was only yesterday I heard that your father and mother<lb/> 
+               had decided to offer her the lodge. I quite meant to have gone<lb/> 
+               over to speak to her, but I have been so exceedingly busy.<lb/>
+               However she is a sensible woman, and she must have had my<lb/> 
+               message. I'll go over this afternoon."</p><lb/><pb/>
+            
+            <fw type="header" place="top">DELIA'S BIG SISTER. 81</fw><lb/>
+            
+               <p>"Yes, do," said Constance. "Somehow I don't feel sure—the<lb/>
+               poor little girl did look rather melancholy now I come to think of it."</p><lb/> 
+               <p>But the afternoon was already well advanced, and before the<lb/> 
+               children's mother could start some callers came, who stayed so<lb/> 
+               long that by the time they left it was decidedly too late. Her<lb/>
+               visit had to be put off till the next morning.</p><lb/> 
+               <p>And all this time Poppy's heart was very sore. She did not<lb/> 
+               like to say much to her mother who was sad enough already.<lb/> 
+               She was not sorry that evening to catch sight of a small dark object<lb/> 
+               in one corner of the kitchen, which crept towards her when she<lb/>
+               called it gently.</p><lb/>
+               <p>"Flip, Flip," she said, "come and speak to me. Mother's in<lb/> 
+               the back kitchen washing. "Oh, Flip, have you heard that we're<lb/>
+               going away—that the house is taken?"</p><lb/> 
+               <p>"I thought something was the matter," Flip replied. "I—I<lb/> 
+               could not help hearing some conversation between you and your<lb/> 
+               mother. It is very distressing, just too when we had given up<lb/>
+               all idea of emigrating, for your sake, dear Poppy. I fear I could<lb/> 
+               not persuade my parents to change their minds again about going<lb/>
+               to the country."</p><lb/> 
+               <p>"But <hi rend="italic">we're</hi> not going there—I wish we were! Only you didn't give<lb/>
+               up for our sakes only, Flip—you know what I told you about the c—"</p><lb/><pb/> 
+            
+            <fw type="header" place="top">82 A HOUSE TO LET.</fw><lb/>
+            
+               <p>Flip shivered.</p><lb/> 
+               <p>"Hush!" he said. "Yes, that is true certainly. But it is a<lb/> 
+               sad look-out. Who knows what sort of people the newcomers may<lb/> 
+               be, or <hi rend="italic">who</hi>," and here his voice dropped, "<hi rend="italic">who</hi> may come with them?"</p><lb/>
+               <p>"Poor Flip!" said Poppy, "yes, it's very sad for all of you<lb/> 
+               too. But I'll tell you what—I know the ladies who are coming<lb/> 
+                  
+                  <figure n="5">
+                     <graphic url="assets/img/documents/Images_alone/Image_45.png"/>
+                     <figDesc>
+                        Image of page 82 containing text and an illustration of a little girl who is sitting on the floor and chatting with a mouse who is standing across from her.
+                     </figDesc>
+                  </figure><lb></lb>  
+                  
+               —I'll see if I can't get them to promise not to have a—you know<lb/> 
+               what. You be sure to come and have another talk with me<lb/> 
+               before we go, and I'll tell you if I've been able to ask them."</p><lb/>
+               <p>"Oh, thank you, dear Poppy, thank you," said Flip. "I'll—"<lb/>
+               but at that moment the charwoman came in, and off he scudde<lb/>
+               tail and all!</p><lb/><pb/>
+         </div>
+         <div type="chapter" n="11">
+            <head>CHAPTER XI</head>
+            <head type="subheading">ALMOST TOO GOOD TO BE TRUE.......83</head><lb/> 
+            
+            <figure n="5">
+               <graphic url="assets/img/documents/Images_alone/Image_46.png"/>
+               <figDesc>
+                  Image of page 83 containing text and an illustration of two ladies sitting by a kitchen dresser, who are chatting, and a little girl, who is standing next to one of them listening.
+               </figDesc>
+            </figure><lb></lb>  
+            
+            <p>"GOOD morning, Mrs.<lb/> 
+               Orchard." (I don't<lb/> 
+               think I have ever mentioned<lb/> 
+               that Poppy's last name was<lb/>
+               Orchard, have I? A nice<lb/>
+               country-sounding name it<lb/> 
+               is, isn't it?) "I am so<lb/>
+               sorry not to have come over<lb/> 
+               to see you before, but you<lb/>
+               got my nurse's message?"<lb/>
+               said Bessie's mother to<lb/> 
+               Poppy's, the next day when she found herself at last standing at<lb/>
+               the door of number nine opposite.</p><lb/> 
+               <p>The caretaker stared.</p><lb/>
+               <p>"No, ma'am, I don't think I've had any message," she said.<lb/>
+               "And if it was given to Poppy, she's a thinkin' kind of child; she<lb/>
+               wouldn't go to forget to tell me. She's just in from school, ma'am,<lb/>
+               I'll call her. But would you kindly step down to the kitchen,<lb/><pb/>
+                  
+                  <fw type="header" place="top">84 A HOUSE TO LET.</fw><lb/>
+                  
+               there's not a chair nor a stool anywhere else, though it won't be long<lb/>
+               like that. You've heard, ma'am, as the house is taken?"</p><lb/> 
+               <p>She was rather excited at the lady's visit and it made her talk<lb/> 
+               more than usual, as she led the way to the kitchen, Bessie's mother<lb/>
+               following her.</p><lb/>
+               <p>"Yes," she replied, "it is about that I wanted to speak to you,<lb/>
+               and it will take some little time to explain, so we may as well sit<lb/>
+               down and talk comfortably. Oh, here is Poppy. How are you, my<lb/> 
+               dear? Didn't my second nurse give you a message from me for<lb/> 
+               your mother the other day, Poppy?"</p><lb/>
+               <p>Poppy considered.</p><lb/> 
+               <p>"No, ma'am," she replied, "she only asked me if mother would<lb/>
+               be in on Monday, and I said I knew she would be. Perhaps I<lb/> 
+               should have told mother, but I never thought of it again."</p><lb/>
+               <p>"You should 'a told me," said the caretaker.</p><lb/>
+               <p>"Oh, but that wasn't the message," said the lady. "There must<lb/> 
+               have been some mistake about it. My message was to tell you,<lb/> 
+               Mrs. Orchard, that the ladies who were coming to see the house<lb/> 
+               were relations of ours, and that you mustn't be put out about having<lb/> 
+               to leave, as we should think of you in making our plans. I<lb/> 
+               must speak to Carter about it."</p><lb/> 
+               <p>The poor woman's face cleared.</p><lb/><pb/>
+            
+            <fw type="header" place="top">ALMOST TOO GOOD TO BE TRUE. 85</fw><lb/>
+            
+               <p>"And I'm sure, ma'am, it was very kind of you to think of us.<lb/> 
+               If maybe I might make so bold, I'd be proud to do the cleaning and<lb/>
+               see to the furniture a bit when it comes in. It'd give me nice time<lb/>
+               to look about for a new place for us."</p><lb/>
+               <p>"Certainly," her visitor replied. "I've no doubt my sister would<lb/> 
+               be glad to keep you on here a little. But I have much more to speak<lb/> 
+               of than that. How would you and Poppy like to go to the country<lb/>
+               to live, Mrs.<lb/>
+                  
+                  <figure n="5">
+                     <graphic url="assets/img/documents/Images_alone/Image_47.png"/>
+                     <figDesc>
+                        Image of page 85 containing text and an illustration of six mice peeping through a hole in the wall.
+                     </figDesc>
+                  </figure><lb></lb>  
+                  
+               Orchard? The<lb/>
+               smaller of the<lb/> 
+               two lodges<lb/>
+               at my<lb/> 
+               sister's, the<lb/> 
+               place Poppy<lb/> 
+               was at on their<lb/>
+               birthday with the children, is empty, and they want some one for it.<lb/>
+               There is not so much gate opening as at the principal lodge, and it<lb/>
+               is close to the farm and not lonely: it is a pretty little house, and you<lb/> 
+               would have it rent-free and a few shillings a week, and you might<lb/> 
+               take in some washing."</p><lb/>
+               <p>She was half surprised when she stopped speaking that there was<lb/> 
+               no reply. But glancing up, she quickly saw the reason: the tears<lb/>
+                  <fw type="sig" place="bot-right">M</fw><lb/>
+                  <pb/>
+                  
+                  
+                  <fw type="header" place="top">86 A HOUSE TO LET.</fw><lb/>
+                  
+               were streaming down the poor woman's face; she <hi rend="italic">could</hi> not speak<lb/>
+               while little Poppy's cheeks were crimson with excitement and<lb/> 
+               her eyes dancing in her head.</p><lb/>
+               <p>"Oh! mother, mother," she cried, "don't take on so. Do tell<lb/>
+               the lady as it'll be like heaven to us to go and live in the country,<lb/>
+               oh, mother, do!"</p><lb/> 
+            
+            <figure n="5">
+               <graphic url="assets/img/documents/Images_alone/Image_48.png"/>
+               <figDesc>
+                  Image of page 86 containing text and an illustration of three mice chatting by a hole in the wall while other mice run away.
+               </figDesc>
+            </figure><lb></lb>  
+            
+               <p>Mrs. Orchard choked down her tears.</p><lb/>
+               <p>"Oh, ma'am," she said. "Indeed what she says is true. I don't<lb/> 
+               know where to find words for to thank you, for it's all come of your<lb/>
+               goodness to us. I do trust as I'll show I'm grateful by doing all in<lb/>
+               my power to serve your friends faithful."</p><lb/> 
+               <p>"I'm sure you will," said Jack's and Bessie's mother kindly,—<lb/>
+               there were tears in her own eyes, I fancy,—"and I am so glad you like<lb/><pb/>
+                  
+                  <fw type="header" place="top">ALMOST TOO GOOD TO BE TRUE. 87</fw><lb/>
+                  
+               the idea. My sister will be here herself next week, and she will come<lb/>
+               in and see you and talk it all over. Her eldest daughter is here now."</p><lb/> 
+               <p>"Yes'm," said Poppy. "I saw it was Miss Delia's big sister,<lb/>
+               and mother and me we hoped as maybe 'twas your ladies that were<lb/>
+                  
+                  <figure n="5">
+                     <graphic url="assets/img/documents/Images_alone/Image_49.png"/>
+                     <figDesc>
+                        Image of page 87 containing text and an illustration of a lady sitting on a chair, talking to another lady and a little girl who are standing next to the chair.
+                     </figDesc>
+                  </figure><lb></lb>   
+                  
+               takin' the house, because<lb/>
+               of the cleanin' you see;<lb/> 
+               but we never thought<lb/> 
+               of anything like <hi rend="italic">this!</hi>"<lb/>
+               and the child<lb/> 
+               quite gasped<lb/>
+               with her de-<lb/> 
+               light.</p><lb/> 
+               <p>"There's<lb/>
+               only one<lb/> 
+               thing, ma'am,<lb/>
+               no--there's<lb/>
+               two things,"<lb/> 
+               she went on<lb/>
+               confidingly.<lb/>
+               Poppy was not<lb/> 
+               a shy child. "I'll be so sorry not to see Master Jack and Miss Bessie,"<lb/> 
+               and her pretty blue eyes grew tearful.</p><lb/><pb/> 
+            
+            <fw type="header" place="top">88 A HOUSE TO LET.</fw><lb/>
+            
+               <p>"But you will see them, my dear," said the lady. "They very<lb/>
+               often go out to their aunt's, and sometimes they stay there several<lb/>
+               weeks. It is only for a short time of the year that my relations are<lb/> 
+               to be in London, you know."</p><lb/>
+               <p>Poppy grew quite bright again.</p>
+               <p>"That will be nice," she said, "and to be sure it isn't as if mother<lb/> 
+               and me had been going to stay here in this house, we might have<lb/>
+               been several streets off."</p><lb/> 
+               <p>"And what is the other thing?" asked the children's mother.<lb/>
+               "You said there were two?"</p><lb/>
+               <p>Poppy grew very red.</p><lb/>
+               <p>"It's—it's only—p'r'aps I might ask the ladies when they come<lb/>
+               themselves," she said at last. "It's only—I do <hi rend="italic">ope</hi> they won't keep a cat."</p><lb/>
+               <p>She fancied she heard a slight rustle in a corner of the kitchen,<lb/> 
+               for Poppy was very quick of hearing. She was right; six pairs of<lb/> 
+               long little ears were eagerly listening for the lady's reply.</p><lb/> 
+               <p>"A cat," she repeated, looking puzzled—oh, dear, what a shud-<lb/>
+               der went through the group of Bright-eyes standing at the door of<lb/>
+               their hole!</p><lb/> 
+               <p>"Why shouldn't they keep a cat, my dear?"</p><lb/> 
+               <p>"Oh, ma'am, Poppy's quite silly-like about the mice," said her<lb/>
+               mother apologetically. "There's some here that's so tame, she's<lb/> 
+               come quite to make pets of 'em. They do no harm, I'll say that<lb/> 
+               for them, and there don't seem many."</p><lb/><pb/>
+            
+            <fw type="header" place="top">ALMOST TOO GOOD TO BE TRUE. 89</fw><lb/>
+            
+               <p>"Only Flip—and the father and mother," said Poppy glibly.</p><lb/>
+               <p>The lady could not help smiling.</p><lb/>
+               <p>"Are these your names for them?" she said. "Well, now I come to<lb/>
+               think of it, I dare say my friends will not keep a cat, for the girls have<lb/> 
+               some very favourite birds. But you'd better ask them yourself, Poppy,<lb/> 
+               when you see them next week, and perhaps you might say a word or<lb/> 
+               two for your pet mice. If they promise to be very good and not mis-<lb/> 
+               chievous, and if no other mice come to live at number nine, perhaps my<lb/>
+               sister will allow this family to stay here unmolested. There are mice<lb/>
+               and mice, you know; some are exceedingly tiresome and mischievous."</p><lb/>
+               <p>"Ours aren't like that, I'm sure," answered Poppy. "All the<lb/> 
+               same I'll tell Flip," and seeing the amused glances between the lady<lb/>
+               and her mother she blushed a little. "I'll tell Flip what you say,<lb/> 
+               ma'am. And when Miss Delia's Mamma comes I'll ask her. I am<lb/>
+               so glad they don't like cats."</p><lb/>
+               <p>Soon after this, Jack's and Bessie's mother went away, Mrs. Orchard<lb/> 
+               and Poppy following her with their smiling faces to the door.</p><lb/>
+               <p>"It is a real pleasure to see them looking so happy," thought<lb/>
+               the kind lady to herself.</p><lb/> 
+               <p>And oh, what a joyful afternoon the two had; talking over the<lb/>
+               news that seemed almost too good to be true, picturing the little<lb/>
+               cottage to themselves, planning what new things they would be able<lb/> 
+               to buy to make it look pretty and neat. "For we must be a credit<lb/>
+               to the ladies, you see, Poppy," said her mother.</p><lb/><pb/>
+            
+            
+         </div>
+         <figure n="5">
+            <graphic url="assets/img/documents/Images_alone/Image_50.png"/>
+            <figDesc>
+               Image of page 90 containing text and an illustration of a lady standing at the door of a cottage, chatting with a little girl, who is outside the cottage.
+            </figDesc>
+         </figure><lb></lb>   
+         
+         <div type="chapter" n="12">
+            <head>CHAPTER XII</head>
+            <head type="subheading">DELIA'S DREAM........90</head><lb/> 
+            <p>RIGHT, warm, lovely summer! If spring,<lb/> 
+               early spring even, in the country, had<lb/> 
+               seemed fairyland to little Poppy, what<lb/> 
+               words could she find for these blue and<lb/>
+               golden days, with their wealth of flowers<lb/> 
+               and butterflies, birds singing overhead,<lb/>
+               sleepy-eyed cows in the fields, every-<lb/>
+               thing, so at least it seemed to her, fresh<lb/> 
+               and sweet and happy! For it was a<lb/>
+               very lovely summer that year; such a<lb/> 
+               summer as we cannot expect, in England<lb/> 
+               at least, <hi rend="italic">always</hi>.</p><lb/> 
+               <p>"And it's the twentieth of July at last, mother," said the little<lb/> 
+               girl, as she stood at the cottage door early that morning, "and<lb/>
+               they're really coming this afternoon, Master Jack and Miss Bessie,<lb/>
+               as well as our own ladies. Isn't it funny that Miss Delia and<lb/>
+               Miss Constance and their Mamma should be our ladies, more<lb/><pb/> 
+                  
+                  <fw type="header" place="top">DELIA'S DREAM, 91</fw><lb/> 
+                  
+               than Miss Bessie and her Mamma? I'll never feel as if they<lb/>
+               <hi rend="italic">were</hi> more ours, mother, I'll never love <hi rend="italic">no</hi> ladies—I mean <hi rend="italic">any</hi> ladies<lb/> 
+               —mother, teacher's very particular about my talkin', do you know?"</p><lb/> 
+               <p>"And a very good thing. If you're ever to be a nurse to ladies'<lb/>
+               children as you want to be, Poppy, ladies think a deal about nice<lb/> 
+               talking. I'm too old now to change myself, but I shall be pleased<lb/>
+               for you to learn to say the words right."</p><lb/> 
+               <p>"Yes—I told teacher so," said Poppy, but she spoke rather<lb/> 
+               absently. "Mother," she went on, "there's just one thing I'd like, to<lb/> 
+               make me perfectly happy, if only the ladies were going to drive<lb/> 
+               in at <hi rend="italic">our</hi> gate, and me to open it!"</p><lb/> 
+               <p>"Nobody can have everything," said her mother smiling. "But<lb/> 
+               I tell you what—I do think we might both be standing near the<lb/>
+               big gates, to see them when they arrive. I know it'd be all right<lb/>
+               for me to lock up here just for once in a way."</p><lb/> 
+               <p>Poppy flew to her mother and kissed her.</p><lb/> 
+               <p>"Oh, yes, do let us," she said. "And p'raps Mr. Jemmit at<lb/> 
+               the big lodge 'll let me help to open. He's rather stiff, you know,<lb/>
+               and the gates are very heavy. And oh, mother, you'll be sure to<lb/> 
+               have the cakes and all for <hi rend="italic">beautiful</hi> to-morrow, won't you? 'Thurs-<lb/>
+               day at five o'clock,' Miss Bessie wrote, 'we're all three coming<lb/> 
+               to have tea with you and your mother, Poppy, in your new<lb/><pb/>
+                  
+                  <fw type="header" place="top">92 A HOUSE TO LET.</fw><lb/>
+                  
+               house.'" And Poppy was so happy that she was obliged to hop<lb/> 
+               all round the kitchen and down the little garden path and back<lb/>
+               again, on one foot, to calm down her spirits a little.</p><lb/>
+               <p>"I wonder," she said presently, when she was sitting at breakfast<lb/>
+                  
+                  <figure n="5">
+                     <graphic url="assets/img/documents/Images_alone/Image_51.png"/>
+                     <figDesc>
+                        Image of page 92 containing text and the illustration of a little girl walking happily outside a cottage.
+                     </figDesc>
+                  </figure><lb></lb>  
+                  
+               with her mother, "I wonder if<lb/>
+               Miss Delia will bring all her birds<lb/> 
+               down to the country. And if she<lb/>
+               does I do hope the servants at<lb/> 
+               number nine won't go and get<lb/>
+               a cat, mother?"</p><lb/>
+               <p>Poppy looked quite distressed.</p><lb/>
+               <p>"There's no fear of their getting<lb/> 
+               a cat so long as the mice do<lb/> 
+               no mischief," said her mother.<lb/> 
+               "There was no talk of it that<lb/>
+               time I went up for two nights to<lb/>
+               help when the cook was ill.<lb/>
+               Indeed the servants were saying<lb/> 
+               it was a wonderful clear house for mice."</p><lb/> 
+               <p>"I'm so glad. I do so hope Flip and all of them are very<lb/> 
+               good," said Poppy, as if speaking to herself. "I'll ask Miss Delia<lb/>
+               all the same," she added.</p><lb/> 
+               <p>And so she did, the next afternoon, when, as had been settled, the<lb/>
+               two girls and Jack came to take tea with Mrs. Orchard and Poppy.</p><lb/>
+               <p>What a happy tea-party it was! How the little guests praised the<lb/><pb/> 
+                  
+                  <fw type="header" place="top">DELIA'S DREAM. 93</fw><lb/>
+                  
+               cakes and the jam—and the cream—which Poppy's mother had<lb/>
+               bought at the farm for a <hi rend="italic">great</hi> treat—how pretty the neat table<lb/>
+               looked, with a clean cloth and a beautiful posy of the roses that<lb/> 
+               grew round the lodge windows, in the middle! And after tea,<lb/>
+               when everybody declared they really <hi rend="italic">couldn't</hi> eat any more, how<lb/> #
+               Poppy did enjoy showing the children all over—besides the big<lb/>
+               kitchen there was a back one where Mrs. Orchard did all the<lb/> 
+               cooking, so that the front room was as neat as a new pin always,<lb/>
+               and up stairs there was a nice big bedroom and a cosy tiny one<lb/>
+               out of it, which was to be Poppy's own when she was a big girl<lb/>
+               and able to earn money to furnish it. Then the bit of garden was<lb/>
+               a great source of pride, and a tiny wired-in poultry yard where<lb/>
+               they could keep a few hens and have fresh eggs to sell and sometimes<lb/> 
+               to eat—all had to be shown, and the little guests took as much<lb/>
+               interest in it as if it were their own.</p><lb/>
+               <p>"To think of it all coming of Jack's and my having colds and<lb/>
+               looking out of the nursery window to amuse ourselves! When<lb/> 
+               I saw you at the lodge yesterday afternoon, Poppy, I said to Delia<lb/>
+               it was really like a story, didn't I, Delia? Do you ever make up<lb/> 
+               stories now, Poppy, about the mice, you know? How they must<lb/> 
+               miss you at number nine!"</p><lb/> 
+               <p>Poppy looked a little troubled.</p><lb/> 
+               <p>"Miss Bessie," she said, "I didn't make up about Flip and<lb/> 
+               the others. I might—<hi rend="italic">p'r'aps</hi> I might have dreamed some of it, but<lb/>
+               not all. I'd have told you, I would indeed, if I had made it all up."</p><lb/>
+            <fw type="sig" place="bot-right">N</fw><lb/>
+            <pb/> 
+            
+            <fw type="header" place="top">94 A HOUSE TO LET.</fw><lb/>
+            
+            <figure n="5">
+               <graphic url="assets/img/documents/Images_alone/Image_52.png"/>
+               <figDesc>
+                  Image of page 94 containing text and an illustration of four kids drinking hot beverages around a table.
+               </figDesc>
+            </figure><lb></lb>  
+            
+               <p>Bessie and Delia looked at each other and smiled.</p><lb/>
+               <p>"Tell her, Delia, do," said Bessie. "Listen, Poppy."</p><lb/>
+               <p>"It was about a dream <hi rend="italic">I</hi> had," said Delia. "It was really very<lb/>
+               funny. It was the night before we left London. Everything was<lb/> 
+               ready, all the trunks were packed—even a <hi rend="italic">mouse</hi> might have had<lb/>
+               the sense to see we were going away, so that part of it one<lb/> 
+               can understand. "Well, Poppy, I dreamt, or I didn't dream!—that<lb/>
+               a little dark mouse with a very long tail—"</p><lb/><pb/>
+            
+            <fw type="header" place="top">DELIA'S DREAM. 95</fw><lb/>
+            
+               <p>"A tail with a twist at the end?" interrupted Poppy.</p><lb/>
+               <p>"Yes-—I think so at least—well, he came on to my bed, I<lb/> 
+               saw him plain against the white counterpane, and stood there<lb/> 
+               quite still for a minute. Then I heard a little <hi rend="italic">teeny</hi> voice say,<lb/>
+               'Are you asleep, Miss Delia?' I was rather startled at first,<lb/>
+               but I answered 'No,' for whether I was asleep or not, I thought<lb/>
+               I was, you see. 'I beg your pardon,' he went on, 'for disturbing you<lb/> 
+               at this unseasonable hour—' he did use such grand words! — but my<lb/> 
+               excuse is that I may not have another opportunity. I see you are<lb/> 
+               all going down to the country—we ourselves have often thought<lb/> 
+               of taking a trip down there—we have cousins in the country,<lb/>
+               but for several reasons we have given up thoughts of it—and no<lb/> 
+               doubt you will see our dear little friend, Poppy Orchard. May<lb/>
+               I ask you to give her my very kindest regards—Flip—Flip Bright-<lb/> 
+               eyes is my name—and tell her we are all well, wonderfully well,<lb/> 
+               and comfortable. We have kept to our part of the bargain, and<lb/>
+               you, Miss Delia, you and your kind Mamma have kept to yours.<lb/>
+               No—no nameless one has so far disturbed our peace of mind."</p><lb/>
+               <p>"'You mean we haven't any—' I was <hi rend="italic">just</hi> going to say 'cat'<lb/> 
+               when I remembered that in Poppy's sto—I mean Bessie told<lb/>
+               me that I mustn't say it to them—so I changed. '<hi rend="italic">I</hi> certainly will<lb/>
+               never have any creature in the house who would hurt my birds,<lb/> 
+               and so, Mr. Flip, I think you are all pretty safe as long as you<lb/> 
+               all behave so well.' "He made a sort of twirl with his tail which<lb/>
+               I think was instead of a bow.</p><lb/><pb/> 
+            
+            <fw type="header" place="top">96 A HOUSE TO LET.</fw><lb/>
+            
+            <figure n="5">
+               <graphic url="assets/img/documents/Images_alone/Image_53.png"/>
+               <figDesc>
+                  Image of page 96 containing text and two illustrations, one of a mouse standing with his back turned, the other, of a mouse disappearing into a hole in the wall.
+               </figDesc>
+            </figure><lb></lb>  
+            
+               <p>"'Thank you, thank you for the assurance,' he<lb/> 
+               said. 'We are grateful, we are indeed.<lb/>
+               We never take anything we<lb/> 
+               have no right to—not even a<lb/> 
+               grain of bird-seed, unless it is<lb/>
+               on the floor—we find crumbs<lb/> 
+               enough and to spare, thanks to<lb/> 
+               your Mamma's liberality. Tell<lb/> 
+               dear Poppy of our well-being<lb/> 
+               and—' I don't know what more he was going to say, for just then<lb/> 
+               mother came in with a candle to say good-night and off he<lb/> 
+               scampered. But any way, dream or no dream, I have given you<lb/> 
+               his message, Poppy."</p><lb/> 
+               <p>Poppy had been listening with all her ears.</p> 
+               <p>"I <hi rend="italic">am</hi> glad of it," she said, "for many a time I've thought of poor<lb/> 
+               Flip. Some day maybe, Miss Delia, I might have to go to help at<lb/> 
+               number nine—and then I'd see Flip again. I'm <hi rend="italic">very</hi> pleased he<lb/>
+               hasn't forgotten me."</p><lb/>
+            
+            <figure n="5">
+               <graphic url="assets/img/documents/Images_alone/Image_54.png"/>
+               <figDesc>
+                  Image of page 96 containing text and two illustrations, one of a mouse standing with his back turned, the other, of a mouse disappearing into a hole in the wall.
+               </figDesc>
+            </figure><lb></lb>  
+            
+         </div>
+      </body>
+     
+   </text>
+</TEI>
