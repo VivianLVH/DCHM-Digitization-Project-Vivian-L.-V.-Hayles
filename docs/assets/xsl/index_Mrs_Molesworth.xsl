@@ -12,7 +12,7 @@
                 <title>
                     <!-- add the title from the metadata. This is what will be shown
                     on your browsers tab-->
-                    DCHM Template: Home
+                    Mrs Molesworth's A House to Let: TEI Transcription: Home
                 </title>
                 <!-- load bootstrap css (requires internet!) so you can use their pre-defined css classes to style your html -->
                 <link rel="stylesheet"
@@ -30,10 +30,10 @@
                     </h1>
                 </header>
                 <nav id="sitenav">
-                    <a href="index.html">Home</a> |
-                    <a href="diplomatic.html">Diplomatic Transcription</a> |
-                    <a href="reading.html">Reading Text</a> |
-                    <a href="toplayer.html">Top Layer</a> |
+                    <a href="index_Mrs_Molesworth.html">Home</a> |
+                    <a href="diplomatic_Mrs_Molesworth.html">Diplomatic Transcription</a> |
+                    <a href="reading_Mrs_Molesworth.html">Reading Text</a> |
+                    <a href="toplayer_Mrs_Molesworth.html">Top Layer</a> |
                 </nav>
                 <main id="manuscript">
                     <!-- bootstrap "container" class makes the columns look pretty -->
@@ -93,7 +93,7 @@
                   			</a>
                   		</div>
                   		<div class="copyright_text">
-                         2022 Wout Dillen.
+                         2023 Vivian Lopes Valerio Hayles.
                       </div>
                     </div>
                 </div>

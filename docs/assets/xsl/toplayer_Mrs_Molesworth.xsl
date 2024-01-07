@@ -12,7 +12,7 @@
                 <title>
                     <!-- add the title from the metadata. This is what will be shown
                     on your browsers tab-->
-                    DCHM Template: Reading Text
+                    DCHM Template: Top Layer
                 </title>
                 <!-- load bootstrap css (requires internet!) so you can use their pre-defined css classes to style your html -->
                 <link rel="stylesheet"
@@ -30,12 +30,12 @@
                     </h1>
                 </header>
                 <nav id="sitenav">
-                    <a href="index.html">Home</a> |
-                    <a href="diplomatic.html">Diplomatic Transcription</a> |
-                    <a href="reading.html">Reading Text</a> |
-                    <a href="toplayer.html">Top Layer</a> |
+                    <a href="index_Mrs_Molesworth.html">Home</a> |
+                    <a href="diplomatic_Mrs_Molesworth.html">Diplomatic Transcription</a> |
+                    <a href="reading_Mrs_Molesworth.html">Reading Text</a> |
+                    <a href="toplayer_Mrs_Molesworth.html">Top Layer</a> |
                 </nav>
-                <main id="manuscript">
+                <main>
                     <!-- bootstrap "container" class makes the columns look pretty -->
                     <div class="container">
                         <!-- define a row layout with bootstrap's css classes (two columns with content, and an empty column in between) -->
@@ -101,7 +101,7 @@
                         </a>
                       </div>
                       <div>
-                         2022 Wout Dillen.
+                         2023 Vivian Lopes Valerio Hayles.
                       </div>
                     </div>
                 </div>
@@ -134,18 +134,11 @@
         </p>
     </xsl:template>
 
-    <!-- transform tei del into html del -->
+    <!-- do not show del in toplayer transcription-->
     <xsl:template match="tei:del">
-        <del>
+        <span style="display:none">
             <xsl:apply-templates/>
-        </del>
-    </xsl:template>
-
-    <!-- transform tei add into html sup -->
-    <xsl:template match="tei:add">
-        <sup>
-            <xsl:apply-templates/>
-        </sup>
+        </span>
     </xsl:template>
 
     <!-- transform tei hi (highlighting) with the attribute @rend="u" into html u elements -->
