@@ -30,7 +30,7 @@
                     </h1>
                 </header>
                 <nav id="sitenav">
-                    <a href="index_Mrs_Molesworth.html">Home</a> |
+                    <a href="index.html">Home</a> |
                     <a href="diplomatic_Mrs_Molesworth.html">Diplomatic Transcription</a> |
                     <a href="reading_Mrs_Molesworth.html">Reading Text</a> |
                     <a href="toplayer_Mrs_Molesworth.html">Top Layer</a> |
